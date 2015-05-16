@@ -20,15 +20,15 @@ if __name__ == '__main__':
     # Input
     import argparse
     parser = argparse.ArgumentParser(description='Count netlocs of urls from a file')
-    parser.add_argument('filename', metavar='input file', nargs=1, help='File to read urls from')
+    parser.add_argument('input_filename', metavar='input file', nargs=1, help='File to read urls from')
     parser.add_argument('output_filename', metavar='output file', nargs='?',
                         help='File to output counts to')
     args = parser.parse_args()
-    filename = args.filename[0]
+    input_filename = args.input_filename[0]
     output_filename = args.output_filename
 
     # Calculate
-    with open(filename) as file_descriptor:
+    with open(input_filename) as file_descriptor:
         counts = count(file_descriptor)
 
     # Output
