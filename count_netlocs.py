@@ -6,7 +6,7 @@
 from urllib.parse import urlparse
 
 def count(iterable, key=lambda a: urlparse(a).netloc):
-    """Count the duplicate results given by key()"""
+    """Count the duplicate results given by key() in iterable"""
     counts = {}
     for item in iterable:
         k = key(item)
@@ -19,27 +19,38 @@ def count(iterable, key=lambda a: urlparse(a).netloc):
 if __name__ == '__main__':
     # Input
     import argparse
-    parser = argparse.ArgumentParser(description='Count netlocs of urls in a file')
-    parser.add_argument('filename', nargs=1, help='Filename to read urls from')
-    filename = parser.parse_args().filename[0]
+    parser = argparse.ArgumentParser(description='Count netlocs of urls from a file')
+    parser.add_argument('filename', metavar='input file', nargs=1, help='File to read urls from')
+    parser.add_argument('output_filename', metavar='output file', nargs='?',
+                        help='File to output counts to')
+    args = parser.parse_args()
+    filename = args.filename[0]
+    output_filename = args.output_filename
 
     # Calculate
-    file_descriptor = open(filename)
-    counts = count(file_descriptor)
+    with open(filename) as file_descriptor:
+        counts = count(file_descriptor)
 
     # Output
-    sorted_counts = sorted(counts.items(), key=lambda a: a[1])
-    for k, v in sorted_counts:
-        print(k, '\t', v)
+    sorted_counts = sorted(counts.items(), key=lambda a: a[1], reverse=True)
+    if output_filename:
+        # Save output
+        with open(output_filename, 'w') as output_file:
+            for k, v in sorted_counts:
+                output_file.write('{}, {}\n'.format(k, v))
+    else:
+        # Print output (and some extra info)
+        for k, v in sorted_counts:
+            print(k, '\t', v)
 
-    END_SLICE = 20
-    numbers_only = sorted(counts.values())
-    total = sum(numbers_only)
-    last_items = sum(numbers_only[-END_SLICE:])
-    percentage = round(float(last_items) / total * 100, 2)
-    print('The last {} urls account for {} of {} urls ({} %)'.format(
-        END_SLICE,
-        last_items,
-        total,
-        percentage
-    ))
+        END_SLICE = 20
+        numbers_only = sorted(counts.values())
+        total = sum(numbers_only)
+        first_items = sum(numbers_only[:END_SLICE])
+        percentage = round(float(first_items) / total * 100, 2)
+        print('The first {} urls account for {} of {} urls ({} %)'.format(
+            END_SLICE,
+            first_items,
+            total,
+            percentage
+        ))
