@@ -4,6 +4,8 @@
 
 from copy import deepcopy
 
+OUTPUT_INDENT_LEVEL = 2
+
 def filter_data(data, key=lambda row: 'Image' in row):
     """
     Take data formatted as dumped by kimonolabs and remove rows without an image.
@@ -52,6 +54,6 @@ if __name__ == '__main__':
     # Write
     with open(output_filename, 'w') as filedescriptor:
         # Indent with 4 spaces
-        json.dump(clean_data, filedescriptor, indent=4)
+        json.dump(clean_data, filedescriptor, indent=OUTPUT_INDENT_LEVEL)
 
     print('Found {} of {} rows with images.'.format(*info))
