@@ -4,7 +4,7 @@
 
 from copy import deepcopy
 
-def filter_data(data, filter_key='Image'):
+def filter_data(data, filter_key=lambda row: 'Image' in row):
     """
     Take data formatted as dumper by kimonolabs and remove rows without an image.
 
@@ -19,7 +19,7 @@ def filter_data(data, filter_key='Image'):
 
     # Filter
     rows = collections[collection_name]
-    collections[collection_name] = [row for row in rows if filter_key in row]
+    collections[collection_name] = [row for row in rows if filter_key(row)]
     data['count'] = len(collections[collection_name])
     return data, (data['count'], len(rows))
 
