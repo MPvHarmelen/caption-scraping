@@ -1,9 +1,9 @@
-www.washingtonpost.com, 727
-www.reuters.com, 681
-www.nytimes.com, 681
-www.usatoday.com, 597
-www.foxnews.com, 569
-abcnews.go.com, 528
+www.washingtonpost.com, 727, 117
+www.reuters.com, 681, 0, Saving API failed
+www.nytimes.com, 681, 141
+www.usatoday.com, 597, 0, Caption only visible after click
+www.foxnews.com, 569, 0, Image not visible when creating API
+abcnews.go.com, 528, 0, URLs seem to be broken
 www.nbcnews.com, 447
 www.cnn.com, 446
 www.wsj.com, 352
