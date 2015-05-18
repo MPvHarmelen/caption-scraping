@@ -20,8 +20,8 @@ def filter_data(data, filter_key='Image'):
     # Filter
     rows = collections[collection_name]
     collections[collection_name] = [row for row in rows if filter_key in row]
-
-    return data, (len(collections[collection_name]), len(rows))
+    data['count'] = len(collections[collection_name])
+    return data, (data['count'], len(rows))
 
 
 if __name__ == '__main__':
