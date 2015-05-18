@@ -1,6 +1,6 @@
 {
   "name": "Washingtonpost",
-  "count": 695,
+  "count": 578,
   "frequency": "Manual Crawl",
   "version": 2,
   "newdata": false,
@@ -15,41 +15,9 @@
         "url": "http://www.washingtonpost.com/local/inova-fairfax-hospital-is-on-lockdown/2015/03/31/421aaa4e-d783-11e4-b3f2-607bd612aeac_story.html"
       },
       {
-        "Caption": "Silhouetted against the sky at dusk, emissions spew from the smokestacks at Westar Energy’s Jeffrey Energy Center coal-fired power plant near St. Mary’s, Kan. (Charlie Riedel/AP)",
-        "First paragraph": "The Obama administration on Tuesday outlined an ambitious plan for slashing U.S. greenhouse-gas pollution over the next decade, calling for accelerating the shift from fossil fuels to clean energy to stave off the worst effects of climate change.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2010/12/16/CapitalBusiness/Images/PHO-10Dec15-276779.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Obama administration, citing climate risks, plans steep cuts in greenhouse-gas pollution",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/03/31/obama-administration-citing-climate-risks-plans-steep-cuts-in-greenhouse-gas-pollution/"
-      },
-      {
         "First paragraph": "The Obama administration had committed itself to reach a broad political agreement with Iran and a group of world powers by March 31, with three additional months to nail down many complex details.",
         "Title": "Iran nuclear talks continue past self-imposed midnight deadline",
         "url": "http://www.washingtonpost.com/world/diplomats-scurry-to-make-a-deal-before-self-imposed-midnight-deadline/2015/03/31/b1c4ee72-d260-11e4-8b1e-274d670aa9c9_story.html"
-      },
-      {
-        "Caption": "Iraqi security forces and Shiite paramilitary fighters hold an Islamic State flag, which they pulled down in Tikrit on Tuesday. Iraqi troops aided by Shi’ite paramilitaries and Sunni tribal fighters have reached the center of Tikrit after securing the Sunni city’s southern and western sections from the militants, Prime Minister Haidar al-Abadi said. (Alaa al-Marjani/Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/world/middle_east/iraqi-forces-advance-in-tikrit-following-us-strikes/2015/03/31/15585411-82e8-4ec0-928e-c1fbaa2b4442_story.html",
-          "text": "Iraqi soldiers and Shiite militia took back the center of the Iraqi city of Tikrit on Tuesday from Islamic State militants. It figures to be a major victory against the Islamists, although there are indications that fighting may continue."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/03/31/Production/Daily/A-Section/Images/2015-03-31T145620Z_01_BAG01_RTRIDSP_3_MIDEST-CRISIS-IRAQ-TIKRIT-GAINS.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Photos: The battle in Tikrit as the Islamic State loses control",
-        "url": "http://www.washingtonpost.com/news/checkpoint/wp/2015/03/31/photos-iraqs-battle-of-tikrit-as-the-islamic-state-loses-control/"
-      },
-      {
-        "Caption": "Trevor Noah in 2009. (Bongiwe Mchunu/The Star via Associated Press)",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/03/30/Production/Daily/Style/Images/South_Africa_Trevor_Noah-02fa2.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "How Trevor Noah can save his tenure at ‘The Daily Show’ before it starts",
-        "url": "http://www.washingtonpost.com/news/act-four/wp/2015/03/31/how-trevor-noah-can-save-his-tenure-at-the-daily-show-before-it-starts/"
       },
       {
         "First paragraph": "She asks for a phone call in one, a phone number in another. She seeks advice on how best to condemn information leaks, and accidentally replies to one work email with questions apparently about decorations.",
@@ -113,28 +81,6 @@
         "url": "http://www.washingtonpost.com/politics/indiana-law-draws-republican-white-house-hopefuls-into-the-culture-wars/2015/03/31/c00bfabe-d7c1-11e4-b3f2-607bd612aeac_story.html?tid%3DhpModule_ba0d4c2a-86a2-11e2-9d71-f0feafdd1394"
       },
       {
-        "Caption": "Members of a Turkish police special forces unit prepare to enter the Justice Palace in Istanbul on March 31. (Osman Orsal/Reuters)",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-03-31/Reuters/2015-03-31T133406Z_01_IST04_RTRIDSP_3_TURKEY-HOSTAGE.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Turkish prosecutor dies after being held hostage in a courthouse, reports say",
-        "url": "http://www.washingtonpost.com/news/world/wp/2015/03/31/reports-say-turkish-prosecutor-taken-hostage-in-a-courthouse/"
-      },
-      {
-        "Caption": "Sharon Watkins is general minister and president of the Christian Church (Disciples of Christ). Photo used with permission, http://disciples.org",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/03/31/religious-liberty-or-discrimination-read-the-text-of-indianas-religious-freedom-law/",
-          "text": "Organizers of a mainline Protestant church gathering say they will not move their 2017 convention from Indianapolis due to a hotly contested new Religious Freedom Restoration Act as initially planned."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/acts-of-faith/wp-content/uploads/sites/45/2015/03/watkins.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Disciples of Christ will hold its convention in Indianapolis despite religious freedom law",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/03/31/indiana-will-lose-the-disciples-of-christ-convention-over-religious-freedom-bill/"
-      },
-      {
         "First paragraph": "Jose Antonio Ramos was never charged in the case that helped galvanize the national missing children’s movement. But for decades, the convicted pedophile was considered the prime suspect, until the bombshell confession in 2012 by Pedro Hernandez, a former stock clerk who worked at a convenience store where Etan was headed when he vanished.",
         "Title": "In Etan Patz case, defense focuses on the other suspect",
         "url": "http://www.washingtonpost.com/national/in-etan-patz-case-defense-focuses-on-the-other-suspect/2015/04/01/09e20e40-d82a-11e4-bf0b-f648b95a6488_story.html"
@@ -155,35 +101,12 @@
         "url": "http://www.washingtonpost.com/politics/indiana-debate-exposes-republican-divisions/2015/04/01/baf2e68c-d83e-11e4-bf0b-f648b95a6488_story.html"
       },
       {
-        "Caption": "Musician Joni Mitchell performs at the Thelonious Monk Institute of Jazz International Trumpet Competition and Herbie Hancock Tribute in Hollywood October 28, 2007. (Max Morse/Reuters)",
-        "First paragraph": "This post has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/RTR1VG0Z.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Singer-songwriter Joni Mitchell hospitalized after being found unconscious",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/01/singer-songwriter-joni-mitchell-rushed-to-hospital/"
-      },
-      {
         "First paragraph": {
           "href": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/03/30/here-are-all-the-people-and-businesses-protesting-indianas-religious-freedom-law/",
           "text": "Most top Republican presidential hopefuls this week have moved in lock step, and without pause, to support Indiana Gov. Mike Pence (R) and his Religious Freedom Restoration Act, which has prompted protests and national calls for boycotts by major corporations."
         },
         "Title": "Indiana law draws Republican White House hopefuls into the culture wars",
         "url": "http://www.washingtonpost.com/politics/indiana-law-draws-republican-white-house-hopefuls-into-the-culture-wars/2015/03/31/c00bfabe-d7c1-11e4-b3f2-607bd612aeac_story.html"
-      },
-      {
-        "Caption": "Gary Ross Dahl, the creator of the popular 1970s fad the Pet Rock, has died at age 78 in Oregon. Dahl’s wife, Marguerite Dahl, confirmed that her husband of 40 years died March 23 of chronic obstructive pulmonary disease. (Marguerite Dahl via AP)",
-        "First paragraph": {
-          "href": "http://www.nytimes.com/2015/04/01/us/gary-dahl-inventor-of-the-pet-rock-dies-at-78.html?_r=0",
-          "text": "Before toy stores were stocked with pet plants, virtual pets and pillow pets, an advertising copywriter called Gary Ross Dahl was dreaming up the Pet Rock, a 1970s novelty toy craze since called a “ridiculously successful marketing scheme.”"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-01/AP/Obit_Dahl-0d8b2.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Pet Rock inventor Gary Dahl dies at 78. He put a rock in a box and sold millions.",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/01/pet-rock-inventor-gary-dahl-dies-at-78/"
       },
       {
         "First paragraph": {
@@ -207,16 +130,6 @@
         "First paragraph": "The monthlong offensive to retake Tikrit, the hometown of Saddam Hussein some 80 miles (130 kilometers) north of Baghdad, is the biggest victory yet for Iraq since the extremists’ campaign last summer. However, the Islamic State group remains a potent threat, Western officials warn.",
         "Title": "A history of the Islamic State group as Iraq retakes Tikrit",
         "url": "http://www.washingtonpost.com/world/middle_east/a-history-of-the-islamic-state-group-as-iraq-retakes-tikrit/2015/04/01/c76b9ec2-d87a-11e4-bf0b-f648b95a6488_story.html"
-      },
-      {
-        "Caption": "Hundreds of students gathered at Duke Wednesday after a noose was found on campus. (Photo obtained by the Post.)",
-        "First paragraph": "This post has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/grade-point/wp-content/uploads/sites/42/2015/04/duke.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Noose is found hanging from tree on Duke’s campus",
-        "url": "http://www.washingtonpost.com/news/grade-point/wp/2015/04/01/noose-is-found-hanging-from-tree-on-dukes-campus/"
       },
       {
         "First paragraph": "President Richard Brodhead told a crowd of several thousand gathered in front of the university’s Gothic chapel building that their presence was a rejection of that symbol. And he said that while administrators and campus police investigate who displayed the noose and why, it is up to each individual to reject racism.",
@@ -274,26 +187,6 @@
         "url": "http://www.washingtonpost.com/world/british-prince-harry-reports-for-duty-in-australia-next-week/2015/04/01/96df3966-d8d5-11e4-bf0b-f648b95a6488_story.html"
       },
       {
-        "Caption": "Former California governor Edmund G. “Pat” Brown and his wife, Bernice, after their son, Gov. Edmund G. “Jerry” Brown Jr., was inaugurated to his second term in Sacramento in 1979. (Walter Zaboski/AP)",
-        "First paragraph": "In 1979, a balding man with a touch of gray at the temples and glasses like windshields was holding forth on his favorite subject: H2O. Pat Brown, former governor of California — and father of current California governor Jerry Brown (D) — was asking: What’s the value of water?",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/AP604490018434-1024x708.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Jerry Brown battles Calif. water crisis created by his father, Gov. Pat Brown",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/02/gov-jerry-brown-battling-california-water-crisis-created-by-his-father-gov-pat-brown/"
-      },
-      {
-        "Caption": "The Park Hyatt Paris Vendôme (Courtesy of Hyatt Hotels)",
-        "First paragraph": "Back when Sen. Bob Menendez was just a chubby Cuban American kid in a tenement apartment in Union City, New Jersey, his mother instilled in him one, all-important lesson: “failure is not an option.” With that mantra in mind, Menendez embarked on a remarkable rise from poverty to power that culminated in the chairmanship of the Senate Foreign Relations Committee on Capitol Hill.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/Park-Hyatt-Paris-Vendome-PRINT-1-768x1024.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Sen. Bob Menendez: Humble beginnings to a 5-star, $1,000 per night Paris hotel suite",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/02/sen-bob-menendez-from-the-depths-of-poverty-to-an-alleged-5-star-paris-hotel-suite/"
-      },
-      {
         "First paragraph": "In one of the nation’s largest cheating scandals of its kind, the 11 defendants were convicted Wednesday of racketeering for their roles in a scheme to inflate students’ scores on standardized exams.",
         "Title": "Former Atlanta educators jailed in test cheating scandal",
         "url": "http://www.washingtonpost.com/national/former-atlanta-educators-jailed-in-test-cheating-scandal/2015/04/02/a0301e14-d91f-11e4-bf0b-f648b95a6488_story.html"
@@ -317,16 +210,6 @@
         "url": "http://www.washingtonpost.com/politics/poll-bush-now-tops-gop-field-clinton-runs-ahead-of-all-republicans/2015/04/01/518fc5fe-d891-11e4-8103-fa84725dbf9d_story.html"
       },
       {
-        "Caption": "Hillary Clinton listens before delivering remarks at an event in New York on Nov. 21, 2014. (AP Photo/Bebeto Matthews, File)",
-        "First paragraph": "Hillary Clinton is still leading all comers in early polls of the 2016 presidential race. But these days, that has much more to do with the Republicans' weaknesses than with her strengths.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/12/02/National-Politics/Images/Hillary_Clinton_Above_the_Fray-0b3f5.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Hillary Clinton’s favorable rating drops below 50 percent. And yet she still leads big.",
-        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/04/02/hillary-clintons-strength-is-all-about-the-gops-weakness/"
-      },
-      {
         "Title": "Yemeni officials: Shiite rebels seize presidential palace in Aden.",
         "url": "http://www.washingtonpost.com/world/middle_east/yemeni-officials-shiite-rebels-seize-presidential-palace-in-aden/2015/04/02/31e010f0-d937-11e4-bf0b-f648b95a6488_story.html"
       },
@@ -346,27 +229,9 @@
         "url": "http://www.washingtonpost.com/national/3-florida-prison-workers-accused-of-plotting-to-kill-inmate/2015/04/02/7bdcdc38-d94b-11e4-bf0b-f648b95a6488_story.html"
       },
       {
-        "Caption": "Chicago Mayor Rahm Emanuel casts his ballot early in the mayoral runoff election on Thursday in Chicago. (By Sean Sullivan/The Washington Post)",
-        "First paragraph": "CHICAGO -- Mayor Rahm Emanuel went to the polls Thursday morning to cast his ballot during early voting in his runoff election.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/post-politics/files/2015/04/rahm.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Rahm Emanuel votes, jokes media is his ‘family’",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/02/rahm-emanuel-votes-early-in-chicagos-mayoral-runoff/"
-      },
-      {
         "First paragraph": "“You see people that just run water all the time, people that are watering their lawns, parks that are not using recycled water,” Whitlock said. “This has been going on for years, and everybody that I talk to says, ‘Oh, well, you know, it’s going to rain, El Nino’s coming.”",
         "Title": "California takes sweeping steps to conserve water in drought",
         "url": "http://www.washingtonpost.com/national/energy-environment/california-governor-orders-mandatory-water-restrictions/2015/04/01/08673f98-d8cc-11e4-bf0b-f648b95a6488_story.html"
-      },
-      {
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/inspired-life/wp-content/uploads/sites/44/2015/04/schullerquote-e1427997669176.png&w=1484",
-          "text": ""
-        },
-        "Title": "10 quotations from the late Rev. Robert H. Schuller that could inspire anyone",
-        "url": "http://www.washingtonpost.com/news/inspired-life/wp/2015/04/02/10-quotations-from-the-late-rev-robert-h-schuller-that-could-inspire-anyone/"
       },
       {
         "First paragraph": {
@@ -385,16 +250,6 @@
         "First paragraph": "Residents may be about to find out as California imposes the first mandatory statewide water-use restrictions later this year.",
         "Title": "California moves to kill the lawn, save the water",
         "url": "http://www.washingtonpost.com/national/energy-environment/california-moves-to-kill-the-lawn-save-the-water/2015/04/02/d749498c-d976-11e4-bf0b-f648b95a6488_story.html"
-      },
-      {
-        "Caption": "This photo provided by Henry Washington shows a rope noose hung from a tree Wednesday, April 1, 2015, in Durham, N.C. Duke University officials are trying to determine who hung the noose, what the president of the elite Southern school described as a vicious symbol in a region where lynchings were once used to terrorize black residents. (AP Photo/Henry Washington)",
-        "First paragraph": "A student has admitted hanging a noose from a tree on campus, Duke University officials said Thursday afternoon.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-02/AP/Duke_Noose-09632.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Duke student admitted hanging noose from tree on campus, school officials say",
-        "url": "http://www.washingtonpost.com/news/grade-point/wp/2015/04/02/duke-student-admitted-hanging-noose-from-tree-on-campus-school-officials-say/"
       },
       {
         "First paragraph": "More than 500 students were rescued after the Islamist militants, heavily armed and strapped with explosives, attacked the campus of Garissa University College about 5:30 a.m., shooting some young people and taking others hostage. At least 79 people were injured, according to Kenya’s National Disaster Operation Center.",
@@ -475,16 +330,6 @@
         "url": "http://www.washingtonpost.com/business/streak-of-strong-us-hiring-likely-extended-into-march/2015/04/03/a2dcfec4-d9b6-11e4-bf0b-f648b95a6488_story.html"
       },
       {
-        "Caption": "Anthony Ray Hinton wipes tears following his release. (Bob Farley/EPA)",
-        "First paragraph": "Anthony Ray Hinton was one of Alabama’s longest-serving death row inmates, having spent more than half his life incarcerated. Now, after three decades of insisting that he was innocent in the 1985 murders of two men, the 58-year-old Hinton is finally a free man.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-03/Bloomberg/04691243.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Alabama inmate free after three decades on death row. How the case against him unraveled.",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/03/how-the-case-against-anthony-hinton-on-death-row-for-30-years-unraveled/"
-      },
-      {
         "First paragraph": "“We don’t cheat. We are not two-faced,” Rouhani declared in an upbeat televised address to the nation a day after negotiators reached a framework on the nuclear deal. He added: “If we’ve given a promise . . . we will take action based on that promise. Of course, that depends on the other side taking action on their promises, too.”",
         "Title": "Iran nuclear pact stirs hope — and fear — of new political order in Mideast",
         "url": "http://www.washingtonpost.com/world/middle_east/saudi-king-give-cautious-nod-to-iran-nuclear-deal/2015/04/03/aeb04901-e608-4735-8bf3-4dfd71c4c74d_story.html"
@@ -493,19 +338,6 @@
         "First paragraph": "Israeli Prime Minister Benjamin Netanyahu said the understandings fail to outright shut down any of Iran’s nuclear facilities, while legitimizing its uranium enrichment program and leaving it with an infrastructure that could eventually be capable of producing a bomb.",
         "Title": "From both Iran’s hard-liners and Israel: No to nuclear deal",
         "url": "http://www.washingtonpost.com/world/middle_east/from-both-irans-hard-liners-and-israel-no-to-nuclear-deal/2015/04/03/169f512e-da37-11e4-bf0b-f648b95a6488_story.html"
-      },
-      {
-        "Caption": "The moon glows a red hue during a total lunar eclipse Tuesday, April 15, 2014, as seen from the Milwaukee area. That eclipse was the first of four total lunar eclipses to take place between 2014 to 2015. (AP Photo/Milwaukee Journal-Sentinel, Mike De Sisti)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/04/03/please-pass-the-jelly-how-to-watch-the-breakfast-lunar-eclipse-on-saturday-morning/",
-          "text": "For a very brief time on Saturday, the moon will turn an orangey-red, depending on conditions, during an Easter weekend lunar eclipse. Although the east coast of the United States will be shut out of this particular “blood moon” in the sky, it’s just the third of four such eclipses spanning a period of a couple years — an event known as a tetrad."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/04/15/Production/Daily/A-Section/Images/Lunar_Eclipse-08b87.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Everything you need to know about the ‘blood moon’ apocalypse debate",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/03/everything-you-need-to-know-about-the-blood-moon-apocalypse-debate/"
       },
       {
         "First paragraph": "The roll had started years earlier on the U.S. Capitol grounds, but President Rutherford B. Hayes allowed it to move to the White House after it was banned from the Capitol to protect the grounds from damage.",
@@ -520,16 +352,6 @@
       {
         "Title": "Sarah Brady, gun control activist, dies at 73",
         "url": "http://www.washingtonpost.com/national/sarah-brady-gun-control-activist-dies-at-73/2015/04/03/77125436-da4e-11e4-b3f2-607bd612aeac_gallery.html"
-      },
-      {
-        "Caption": "The general consensus is Duke’s Jahlil Okafor, above, or Kentucky’s Karl-Anthony Towns will go No. 1 in the NBA draft. (Grant Halverson/Getty Images)",
-        "First paragraph": "The Final Four is usually a time to celebrate the best teams in college basketball, not extend the debate over the amateur game’s best player. That has changed some this year with NBA executives and scouts in agreement that either Duke freshman center Jahlil Okafor or Kentucky freshman big man Karl-Anthony Towns will be the No. 1 pick come June.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/02/19/Production/Daily/Sports/Images/463818744.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Final Four provides chance to debate NBA’s No. 1 pick",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/03/final-four-provides-chance-to-debate-nbas-no-1-pick/"
       },
       {
         "First paragraph": "On Friday, a day after he was found, the 37-year-old bearded man walked out of a Norfolk hospital grateful for his good fortune and showing no obvious ill effects.",
@@ -569,19 +391,6 @@
       {
         "Title": "Total lunar eclipse dazzles skywatchers",
         "url": "http://www.washingtonpost.com/national/health-science/total-lunar-eclipse-dazzles-skywatchers/2015/04/04/c47d1dca-daf1-11e4-8103-fa84725dbf9d_gallery.html"
-      },
-      {
-        "Caption": "A sprinkler waters a lawn at San Francisco’s Golden Gate Park on Wednesday. As California enters its fourth year of severe drought and the state’s snowpack is at record lows, Gov. Jerry Brown has ordered a statewide 25 percent mandatory water usage reduction for residents, businesses and farms. (Justin Sullivan/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.water.ca.gov/news/newsreleases/2015/040115snowsurvey.pdf",
-          "text": "The water situation in California is getting downright scary. Last week, the Department of Water Resources found “no snow whatsoever” in its Sierra Nevada snowpack survey and Gov. Jerry Brown declared mandatory reductions in water usage in the state. In particular, the more than 400 agencies supplying water to urban areas will have to cut total usage by 25 percent below 2013 levels."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-01/Getty/468284798.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "How to get Californians to use less water — without forcing them to",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/04/how-to-get-californians-to-use-less-water-without-forcing-them-to/"
       },
       {
         "First paragraph": "As the floor teems with its great collection of big men, college basketball will revisit that 20th-century concept of the integral post player, while the Final Four will boast the two presumed as selections Nos. 1 and 2 on June 25 in New York. That will be the NBA Draft, when Jahlil Okafor and Karl-Anthony Towns figure to be the first names Commissioner Adam Silver calls.",
@@ -662,16 +471,6 @@
         "url": "http://www.washingtonpost.com/national/police-31-arrested-following-kentuckys-final-four-loss/2015/04/05/7760d84a-db93-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "Photo by Win McNamee/Getty Images",
-        "First paragraph": "This guy.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/03/National-Politics/Images/485910643.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Why is the White House Easter Bunny always so creepy?",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/03/why-is-the-white-house-easter-bunny-always-so-creepy/"
-      },
-      {
         "First paragraph": "A chief in Mandera County had reported his son missing last year, fearing that he had gone to Somalia to join al-Shabab. His worst fears were confirmed Sunday, when his son, Abdirahim Mohammed Abdullahi, was named as one of the gunmen in the attack at Garissa University College on Thursday. Security forces killed all the four attackers.",
         "Title": "Kenyan official’s son identified as one of the gunmen in last week’s massacre",
         "url": "http://www.washingtonpost.com/world/africa/kenyan-officials-son-identified-as-one-of-the-gunmen-in-last-weeks-massacre/2015/04/05/744b9026-db18-11e4-bf0b-f648b95a6488_story.html"
@@ -700,16 +499,6 @@
         "First paragraph": "Obama’s comments were part of a major sales pitch launched by the administration Sunday in an effort to marshal public support for the tentative pact, even as Israeli Prime Minister Benjamin Netanyahu and congressional Republicans took to the airwaves to blast the accord.",
         "Title": "Obama makes his sales pitch for Iran nuclear deal",
         "url": "http://www.washingtonpost.com/politics/white-house-launches-its-sales-pitch-for-iran-nuclear-deal/2015/04/05/adec8fbc-dbac-11e4-a500-1c5bb1d8ff6a_story.html"
-      },
-      {
-        "Caption": "President Obama, accompanied by the Easter Bunny, at Easter Egg Roll festivities at the White House in 2012. (J. Scott Applewhite/AP)",
-        "First paragraph": "President Obama and the first family worshiped  Easter Sunday  at the 212-year-old Alfred Street Baptist Church in Alexandria, where the minister mixed bible verse with social justice.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/03/National-Politics/Images/Obama_Easter_Egg_Roll_0cdc7.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Obama family visits historic African American church in Northern Virginia",
-        "url": "http://www.washingtonpost.com/news/local/wp/2015/04/05/first-family-headed-to-alexandria-church/"
       },
       {
         "First paragraph": "Djokovic earned his fifth Key Biscayne title Sunday, beating Andy Murray for the seventh consecutive time by showing superior stamina in the subtropical heat to win the Miami Open final 7-6 (3), 4-6, 6-0.",
@@ -757,19 +546,6 @@
       {
         "Title": "Washington state florist who denied service for same-sex wedding gets aid",
         "url": "http://www.washingtonpost.com/national/washington-state-florist-who-denied-service-for-same-sex-wedding-gets-aid/2015/04/05/ab552dc8-dbce-11e4-be40-566e2653afe5_story.html"
-      },
-      {
-        "Caption": "The Columbia Graduate School of Journalism has released a report explaining why Rolling Stone got a story about an alleged rape at the University of Virginia’s Phi Kappa Psi house, above, so wrong. (Ateve Helber/AP)",
-        "First paragraph": {
-          "href": "http://gainscenter.samhsa.gov/atc/text/papers/trauma_paper.htm",
-          "text": "Presented at a meeting nine years ago in Bethesda, the paper “After the Crisis Initiative: Healing from Trauma after Disasters” offered solid advice for mental-health practitioners who wish to avoid re-traumatizing victims. The language was academic, but the message was simple: Believe."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/05/Production/Daily/Style/Images/Fraternity_Rolling_Stone-09b1b.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Why Rolling Stone went easy on ‘our rape victim’",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/06/why-rolling-stone-went-so-easy-on-our-rape-victim/"
       },
       {
         "First paragraph": "The decision by the Appellate Division of the Supreme Court was the last legal roadblock to execution for 62-year-old Mohammad Qamaruzzaman, an assistant secretary general of Jamaat-e-Islami party.",
@@ -834,15 +610,6 @@
         "url": "http://www.washingtonpost.com/local/crowds-gather-for-annual-white-house-easter-egg-roll/2015/04/06/3e6adfd0-dc75-11e4-be40-566e2653afe5_gallery.html"
       },
       {
-        "Caption": "Students pass by the Phi Kappa Psi house at the University of Virginia in Charlottesville in January. (Steve Helber/Associated Press)",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/05/Production/Daily/Style/Images/Fraternity_Rolling_Stone-09b1b.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "After Rolling Stone’s retraction, remembering what reporters owe rape victims",
-        "url": "http://www.washingtonpost.com/news/act-four/wp/2015/04/06/after-rolling-stones-retraction-remembering-what-reporters-owe-rape-victims/"
-      },
-      {
         "First paragraph": "“We ended up having a system where there were more African American and Hispanic kids attending our university system than prior to the system that was discriminatory,” the former governor and likely presidential contender said recently at a conference of conservative activists.",
         "Title": "After Bush order, Florida universities cope with shrinking black enrollment",
         "url": "http://www.washingtonpost.com/politics/after-bush-order-florida-universities-cope-with-shrinking-black-enrollment/2015/04/06/82d1e574-bcfe-11e4-bdfa-b8e8f594e6ee_story.html"
@@ -860,26 +627,6 @@
       {
         "Title": "Judge rules man accused of killing 3 Muslim college students can face death penalty trial",
         "url": "http://www.washingtonpost.com/national/judge-rules-man-accused-of-killing-3-muslim-college-students-can-face-death-penalty-trial/2015/04/06/0f3ce4e6-dc8f-11e4-b6d7-b9bc8acf16f7_story.html"
-      },
-      {
-        "Caption": "Satellite imagery of Sanaa International Airport taken March 22. (Image by DigitalGlobe)",
-        "First paragraph": "When an Arab coalition led by Saudi Arabia began dropping bombs on Yemen last month, one of its first targets was Sanaa International Airport. The airfield in Yemen’s capital is used by both commercial and military aircraft, and was a strategic target after Shiite rebels forced the country’s president to flee Yemen.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/checkpoint/wp-content/uploads/sites/33/2015/04/sanaa-airport-1.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "New satellite images of Yemen — before and after airstrikes",
-        "url": "http://www.washingtonpost.com/news/checkpoint/wp/2015/04/06/bombing-destruction-at-yemens-main-airport-as-seen-from-space/"
-      },
-      {
-        "Caption": "Gertrude Weaver poses at Silver Oaks Health and Rehabilitation Center in Camden, Ark., in July, the day before her 116th birthday. (Danny Johnston/AP)",
-        "First paragraph": "Gertrude Weaver, who became the world’s oldest person last week, died Monday morning in Arkansas after suffering complications from pneumonia.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/01/Interactivity/Images/AP176418826135.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Gertrude Weaver dies just five days after becoming the world’s oldest person",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/06/gertrude-weaver-dies-just-five-days-after-becoming-the-worlds-oldest-person/"
       },
       {
         "First paragraph": {
@@ -918,81 +665,18 @@
         "url": "http://www.washingtonpost.com/national/discredited-rape-story-a-test-for-wenner-rolling-stone/2015/04/07/a4217a06-dcec-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "Jahlil Okafor, No. 15, and Tyus Jones, No. 5, of the Duke University Blue Devils celebrate after defeating the Wisconsin Badgers during the NCAA Men’s Final Four national championship in Indianapolis. Duke defeated Wisconsin 68-63. (Streeter Lecka/Getty Images)",
-        "First paragraph": "It’s a story heartwarming enough to bring a tear to the most jaded sportswriter’s eye: In ninth grade, childhood friends make a pact to conquer the NCAA. And, a few years later, they do — overcoming personal tragedy, the cutthroat machinations of college sports, and the sheer unlikelihood that what some kid says when he is in high school means something along the way.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/468770764-1024x682.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "How Duke’s Tyus Jones and Jahlil Okafor conquered the NCAA: Friendship",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/07/how-dukes-tyus-jones-and-jahlil-okafor-conquered-the-ncaa/"
-      },
-      {
         "First paragraph": "Emanuel, a former White House chief of staff, failed to win an outright majority in February, forcing the runoff. Since then he’s been campaigning to persuade voters that a second term is the best way to help Chicago out of its serious financial problems.",
         "Title": "Chicago voters head to polls for mayor’s race",
         "url": "http://www.washingtonpost.com/politics/chicago-voters-to-head-to-polls-for-mayors-race/2015/04/07/5a121724-dcf4-11e4-b6d7-b9bc8acf16f7_story.html"
-      },
-      {
-        "Caption": "Makayla Collins Jackson, 6 and sister Adriahna Collins Jackson, 8, lay flowers on the doorstep of the Todd family after Rodney Todd and his seven children were found dead in their home. (Linda Davidson/The Washington Post)",
-        "First paragraph": "PRINCESS ANNE, Md. — He was still trying to keep the lights on when his children all died in their beds.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/04/07/Local/Images/8dead0291428437890.jpg?uuid=OTbobN1jEeS217m8is8W9w",
-          "text": ""
-        },
-        "Title": "Carbon monoxide blamed after father and his 7 children die in their sleep",
-        "url": "http://www.washingtonpost.com/local/grandparents-father-of-7-who-died-in-princess-anne-home-was-doing-his-best/2015/04/07/fa8debc2-dd14-11e4-be40-566e2653afe5_story.html"
-      },
-      {
-        "Caption": "Steam rises from the coal-fired Jim Bridger Power Plant outside Point of Rocks, Wyo. (Jim Urquhart/Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/politics/for-president-obama-a-renewed-focus-on-climate/2014/05/04/6b81412c-d144-11e3-9e25-188ebe1fa93b_story.html",
-          "text": "President Obama launched an initiative Tuesday aimed at highlighting the connections between climate change and public health, bringing both medical and data experts to the White House this week."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/energy-environment/wp-content/uploads/sites/43/2015/03/2014-08-12T180531Z_01_TOR412_RTRIDSP_3_USA-COAL-LENDING-3842-1446-1024x699.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "The White House wants to explore how climate change makes you sick",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/07/white-house-to-explore-how-climate-change-makes-you-sick/"
       },
       {
         "Title": "How to deal with false rape allegations",
         "url": "http://www.washingtonpost.com/news/act-four/wp/2015/04/07/how-to-deal-with-false-rape-allegations/"
       },
       {
-        "Caption": "Coach Mike Krzyzewski and his Duke players Jahlil Okafor, Tyus Jones, Amile Jefferson, Grayson Allen, Marshall Plumlee, Quinn Cook and Justise Winslow watch a highlight video after defeating Wisconsin to win the national championship. (Andy Lyons/Getty Images)",
-        "First paragraph": "When the college basketball world checked into Indianapolis late last week, the expectation was that history would be made in Lucas Oil Dome on Monday night. It was — but not the way everyone thought.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-07/Getty/468769476.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Mike Krzyzewski’s fifth title at Duke might be his most surprising",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/07/mike-krzyzewskis-fifth-title-at-duke-might-be-his-most-surprising/"
-      },
-      {
-        "Caption": "Authorities at the Elmwood Park, N.J., home where the bodies of an elderly couple were found on Monday. (Tariq Zehawi/Northjersey.com via AP)",
-        "First paragraph": "Often, neighbors spotted 88-year-old Rosalia Juskin and her 100-year-old husband, Michael, walking around together outside in their Elmwood Park, N.J., neighborhood. Other times, he walked alone — surprisingly active for his 100 years — and she tended to the garden she loved.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-07/AP/Elderly_Couple_Found_Dead-00ff4.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "100-year-old killed his sleeping wife with an ax in a gruesome murder-suicide",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/07/100-year-old-accused-of-killing-sleeping-wife-with-axe-in-gruesome-murder-suicide/"
-      },
-      {
         "First paragraph": "U.S. District Judge George O’Toole Jr. sent jurors home after they spent about seven hours deliberating. The judge indicated the jury had provided him with two notes with questions but he did not provide additional details.",
         "Title": "Jury begins deliberations in Boston Marathon bombing trial",
         "url": "http://www.washingtonpost.com/world/national-security/jury-begins-deliberations-in-boston-marathon-bombing-trial/2015/04/07/e8eeb710-dd38-11e4-a500-1c5bb1d8ff6a_story.html"
-      },
-      {
-        "Caption": "Justise Winslow is headed to the NBA while Grayson Allen will be a key cog for Duke next year. (Andy Lyons/Getty Images)",
-        "First paragraph": "INDIANAPOLIS — It began in November 2013 with the coordinated co-announcement by highly touted recruits Tyus Jones and Jahlil Okafor that they were headed to Durham, and continued a few days later when — after keeping his friends in the dark for a few days — Justise Winslow announced that he, too, would be a Blue Devil.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/sports/wp-content/uploads/sites/13/2015/04/6-grayson-winslow468768582-5786-kcNF-606x404@wp_image_982w.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "After leading Duke to title, these fabulous freshmen will leave holes for next year",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/07/after-leading-duke-to-title-these-fabulous-freshmen-will-leave-holes-for-next-year/"
       },
       {
         "First paragraph": "Deputy National Security adviser Benjamin Rhodes said the State Department’s review of Cuba’s place on that terror list is in “its final stages.” While he said the timing is in the hands of Secretary of State John Kerry, he would not rule out an Obama announcement during the two-day summit in Panama City.",
@@ -1008,16 +692,6 @@
         "First paragraph": "The long list of Christian leaders attending included Sojourners’ Jim Wallis, National Association of Evangelicals President Leith Anderson, Roman Catholic Cardinal Donald Wuerl, the Rev. Al Sharpton, retired Episcopal Bishop Gene Robinson, civil rights veteran the Rev. C.T. Vivian and African Methodist Episcopal Bishop Vashti McKenzie. The Rev. Amy Butler of New York’s Riverside Church gave the opening prayer.",
         "Title": "4 notable remarks from President Obama’s Easter Prayer Breakfast",
         "url": "http://www.washingtonpost.com/national/religion/4-notable-remarks-from-president-obamas-easter-prayer-breakfast/2015/04/07/b68425fc-dd52-11e4-b6d7-b9bc8acf16f7_story.html"
-      },
-      {
-        "Caption": "Duke’s Grayson Allen battles for a loose ball against Wisconsin’s Traevon Jackson Monday night. (David J. Phillip/Associated Press)",
-        "First paragraph": "If you thought all the whistles were going in favor of Duke this NCAA tournament, you were right.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-06/AP/CAA_Duke_Wisconsin_Final_Four_Basketball-0c7db.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Duke really did get all the foul calls in the 2015 NCAA tournament",
-        "url": "http://www.washingtonpost.com/news/fancy-stats/wp/2015/04/07/duke-really-did-get-all-the-foul-calls-in-the-2015-ncaa-tournament/"
       },
       {
         "First paragraph": "Sen. Lamar Alexander (R-Tenn.), chairman of the Senate Committee on Health, Education, Labor and Pensions, and ranking Democrat Sen. Patty Murray (Wash.) want to shift decisions about academic standards, whether and how to evaluate teachers, what to do about low-performing schools and other matters to states and local school districts.",
@@ -1108,26 +782,6 @@
         "url": "http://www.washingtonpost.com/national/da-seeking-life-sentence-in-mothers-salt-poisoning-of-son/2015/04/08/6f3a5100-ddb4-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "(Illustration courtesy of NASA)",
-        "First paragraph": "Is there anyone out there? The answer is almost certainly yes, a top NASA scientist said this week.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2015/04/watereventfeature20150407_main.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Why NASA’s top scientist is sure that we’ll find signs of alien life in the next decade",
-        "url": "http://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/08/why-nasas-top-scientist-is-sure-that-well-find-signs-of-alien-life-in-the-next-decade/"
-      },
-      {
-        "Caption": "Sen. Rand Paul announced on April 7 that he is running for the GOP nomination. (AFP PHOTO / MICHAEL B. THOMAS).",
-        "First paragraph": "Most members of Congress will tell you that they’re a champion of small business. However, most can’t truly empathize, because they haven’t actually run a small business. Even fewer have started one from scratch.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/07/National-Politics/Images/Par8141977-3907.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "What a Rand Paul White House could mean for businesses",
-        "url": "http://www.washingtonpost.com/news/on-small-business/wp/2015/04/08/what-a-rand-paul-white-house-could-mean-for-businesses/"
-      },
-      {
         "First paragraph": "___",
         "Title": "Key moments in death penalty trial of Boston Marathon bomber",
         "url": "http://www.washingtonpost.com/national/key-moments-in-death-penalty-trial-of-boston-marathon-bomber/2015/04/08/f6892d16-de2c-11e4-b6d7-b9bc8acf16f7_story.html"
@@ -1168,26 +822,6 @@
         "url": "http://www.washingtonpost.com/national/family-of-man-found-hanging-in-mississippi-wants-information/2015/04/08/2b30a6e6-de43-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "Protestors march to the Justice department after a rally in response to the suicide of transgender Ohio teenager Leelah Alcorn, on January, 10, 2015 in Washington, DC. (Bill O’Leary/The Washington Post)",
-        "First paragraph": "The Obama administration late Wednesday called for a ban on so-called “conversion” therapies that promise to cure gay and transgender people.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/post-nation/wp-content/uploads/sites/23/2015/04/LELLAHMARCH0031420925711-1024x745.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "White House condemns therapy to ‘cure’ gay youth",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/08/white-house-condemns-therapy-to-cure-gay-youth/"
-      },
-      {
-        "Caption": "Panelist P.J. O’Rourke, left, looks on as Bob Schieffer acknowledges audience applause after announcing his retirement from CBS News at the close of the Schieffer Symposium on the News at TCU in Fort Worth, Texas, Wednesday, April 8, 2015. (AP Photo/The Fort Worth Star-Telegram, Ron T. Ennis)",
-        "First paragraph": "Bob Schieffer, longtime CBS newsman and anchor of “Face the Nation,” announced Wednesday that he will retire come summer, concluding a long career covering politics. Over his 50 years in the field, Schieffer has become a beloved figure in journalism, admired not only for his on-air skills but also for his courtesy and humility in a business rife with vanity.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-08/AP/TV_Schieffer_Retires-00df6.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Veteran broadcaster Bob Schieffer announces retirement after more than 50 years in the business",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/08/veteran-broadcaster-bob-schieffer-announces-retirement-after-more-than-50-years-in-the-business/"
-      },
-      {
         "First paragraph": "From September through February, veterans had more than 230,000 appointments at the Washington VA Medical Center, and just over 2 percent of those were delayed 31 days or more. Nationwide, 2.8 percent of patients had to wait more than 30 days over the same period.",
         "Title": "DC veterans hospital better than average on wait times",
         "url": "http://www.washingtonpost.com/local/dc-veterans-hospital-better-than-average-on-wait-times/2015/04/07/b14bbb88-dd5a-11e4-b6d7-b9bc8acf16f7_story.html"
@@ -1217,16 +851,6 @@
         "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/09/meet-the-man-whose-video-led-to-murder-charge-against-south-carolina-cop/"
       },
       {
-        "Caption": "Sabra, the top-selling hummus brand in the United States, has recalled 30,000 cases of hummus after a sample tested positive for Listeria. (istockphoto)",
-        "First paragraph": "Sabra Dipping Co., which makes the top-selling brand of hummus in the United States, has voluntarily pulled 30,000 cases of hummus — about 360,000 containers nationwide — from stores after s sample tested positive for the potentially deadly bacterium Listeria monocytogenes.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/09/Interactivity/Images/iStock_000018624406_Large.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Sabra pulls 30,000 cases of hummus off store shelves because of Listeria fears",
-        "url": "http://www.washingtonpost.com/news/to-your-health/wp/2015/04/09/sabra-pulls-30000-cases-of-hummus-off-store-shelves-due-to-listeria-fears/"
-      },
-      {
         "First paragraph": "Video released Thursday from the dashboard of white North Charleston police Officer Michael Thomas Slager’s cruiser captures the very first moments he and black motorist Walter Scott meet, a strikingly benign encounter at its earliest stages. It changes within minutes as Scott takes off running and the officer runs after him.",
         "Title": "Police cruiser video shows moments before fatal shooting",
         "url": "http://www.washingtonpost.com/national/video-of-south-carolina-police-shooting-inflames-debate/2015/04/08/7312f0d6-de4d-11e4-b6d7-b9bc8acf16f7_story.html"
@@ -1235,16 +859,6 @@
         "First paragraph": "The remarks by Ayatollah Ali Khamenei, Iran’s ultimate religious and political authority, raised the prospect that talks on a final accord, following last week’s framework agreement, could bog down over what he described as “the details” ahead of a June 30 deadline.",
         "Title": "Iran’s supreme leader voices pessimism on nuclear deal",
         "url": "http://www.washingtonpost.com/world/iran-calls-for-end-of-saudi-led-airstrikes-on-yemen-after-sending-two-warships/2015/04/09/8a0ab446-de8d-11e4-be40-566e2653afe5_story.html"
-      },
-      {
-        "Caption": "A mural in the city of Santiago de Cuba reads “Long Live the Revolution.” (Sarah L. Voisin/The Washington Post)",
-        "First paragraph": "MEXICO CITY — The vast majority of Cubans welcome warmer relations with the United States, holding high expectations that closer ties pledged by the two countries will shake up the island’s troubled economy, according to a new survey of Cuban citizens. But they are doubtful that the diplomatic detente will bring political reforms to their communist country.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/03/10/Foreign/Images/revolution201426013110.jpg?uuid=mAJZzMdVEeS-pbiT56w_sw",
-          "text": ""
-        },
-        "Title": "Poll shows vast majority of Cubans welcome closer ties with U.S.",
-        "url": "http://www.washingtonpost.com/world/the_americas/poll-shows-vast-majority-of-cubans-welcome-closer-ties-with-us/2015/04/08/6285bfe4-d8c3-11e4-bf0b-f648b95a6488_story.html"
       },
       {
         "First paragraph": "Speaking at a gathering of Caribbean leaders here, Obama said the State Department had finished a review of the issue. There is little doubt that it recommends he drop Cuba from the list, and the only real question is when the announcement will be made.",
@@ -1319,16 +933,6 @@
         "url": "http://www.washingtonpost.com/national/spieth-has-64-for-best-opening-round-at-masters-in-19-years/2015/04/09/b84d12c8-df18-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "Judy Scott, mother of Walter Scott, who was shot in the back and killed by North Charleston, S.C., Police Officer Michael Slager, pauses while speaking to a few reporters at her home on April 8 in Charleston, S.C. (Ricky Carioti/The Washington Post)",
-        "First paragraph": "Hearing horrible news about a child is hard enough for any parent. But seeing it may be worse. Thanks to the video showing a white police officer shooting and killing an unarmed black man over the weekend, two mothers in South Carolina were exposed to images of events in their sons’ lives that both desperately wish had never happened.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/scott11428535330.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "South Carolina killing of Walter Scott leaves two mothers grieving and praying",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/10/south-carolina-killing-of-walter-scott-leaves-two-mothers-grieving-and-praying/"
-      },
-      {
         "First paragraph": "A steady stream of mourners, including Charleston Mayor Joseph Reilly Jr., gathered Friday afternoon at a wake in downtown Charleston to pay their respects to Walter Scott, the black man who was shot to death by a white North Charleston police officer.",
         "Title": "Latest on police shooting: Mourners pay respects at wake",
         "url": "http://www.washingtonpost.com/national/latest-on-police-shooting-state-investigators-had-doubts/2015/04/09/27b77942-df1d-11e4-b6d7-b9bc8acf16f7_story.html"
@@ -1337,19 +941,6 @@
         "First paragraph": "Police said the man was her boyfriend. Thursday was his birthday, and the day before a scheduled proceeding in a Prince George’s County courtroom over charges that he had struck her in the face after accusing her of looking at another man.",
         "Title": "Suspect in killing of Census Bureau guard identified as 48-year-old man",
         "url": "http://www.washingtonpost.com/local/crime/investigation-into-census-bureau-guards-death-continues/2015/04/10/6a94b6c6-df6d-11e4-be40-566e2653afe5_story.html"
-      },
-      {
-        "Caption": "(Courtesy of Jon Seidel/Chicago Sun-Times)",
-        "First paragraph": {
-          "href": "http://www.cnn.com/2015/04/10/us/severe-weather/index.html",
-          "text": "At least 12 people were pulled from the wreckage of a restaurant that was destroyed when a tornado ripped through northern Illinois on Thursday, according to reports."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/grubs.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "This Illinois restaurant was destroyed by a tornado. Everybody inside survived.",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/10/this-illinois-restaurant-was-destroyed-by-a-tornado-everybody-inside-survived/"
       },
       {
         "First paragraph": {
@@ -1363,16 +954,6 @@
         "First paragraph": "Meteorologists from the National Weather Service have been surveying northern Illinois areas hit by tornadoes and say it looks like one of them may have had winds of up to 200 mph.",
         "Title": "Latest on tornadoes: Twister may have had winds of 200 mph",
         "url": "http://www.washingtonpost.com/national/latest-on-tornadoes-crews-search-debris-for-survivors/2015/04/10/44f00bd8-df85-11e4-b6d7-b9bc8acf16f7_story.html"
-      },
-      {
-        "Caption": "The area where Walter Scott was shot last weekend. (Alex Holt/For The Washington Post)",
-        "First paragraph": "What would have happened if the man with the cellphone had taken a different path to work?",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/08/Others/Images/2015-04-08/scshooting00051428520029.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "S.C. investigators say they thought fatal police shooting was suspicious before video emerged",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/10/south-carolina-investigators-say-they-thought-fatal-police-shooting-was-suspicious-before-video-emerged/"
       },
       {
         "First paragraph": "1) She was shaped by a saying popular among Methodists: “Do all the good you can, by all the means you can, in all the ways you can, in all the places you can, at all the times you can, to all the people you can, as long as ever you can,” says Paul Kengor in his book “God and Hillary Clinton.”",
@@ -1455,19 +1036,6 @@
         "url": "http://www.washingtonpost.com/national/2-women-killed-in-illinois-tornadoes-were-neighbors-friends/2015/04/10/c11e452c-dffc-11e4-b6d7-b9bc8acf16f7_story.html"
       },
       {
-        "Caption": "Convention attendees look at weapons on display at the 2015 NRA Annual Convention in Nashville, Tennessee on April 10, 2015. The annual NRA meeting and exhibit, expected to draw over 70,000 people, runs till April 12. AFP PHOTO / KAREN BLEIERKAREN BLEIER/AFP/Getty Images",
-        "First paragraph": {
-          "href": "http://www.nationalreview.com/corner/416755/new-york-times-kicks-nra-convention-coverage-massive-lie-charles-c-w-cooke",
-          "text": "An editorial in today’s New York Times originally said:"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/WashingtonPost/Content/Blogs/volokh-conspiracy/Images/Was8916787.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "From “the ultimate in hypocrisy” to “this may run counter to the N.R.A.’s ideas”",
-        "url": "http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/04/10/from-the-ultimate-in-hypocrisy-to-this-may-run-counter-to-the-n-r-a-s-ideas/"
-      },
-      {
         "First paragraph": "A Cairo criminal court issued the verdict against Ohio native Mohamed Soltan, 27, and 37 other defendants in a televised session Saturday. The judge also confirmed death sentences previously handed down to Soltan’s father, Salah Soltan, and 13 others for “inciting chaos” and planning anti-government demonstrations after the military takeover in July 2013.",
         "Title": "Cairo judge sentences Egyptian American to life in prison",
         "url": "http://www.washingtonpost.com/world/egyptian-american-sentenced-to-life-in-prison-by-cairo-judge/2015/04/11/440cd5da-05dc-4a11-b258-5d679cfb5d3f_story.html"
@@ -1497,16 +1065,6 @@
         "url": "http://www.washingtonpost.com/lifestyle/style/the-2015-mtv-movie-awards/2015/04/13/0a36f83a-e1d3-11e4-b510-962fcfabc310_gallery.html"
       },
       {
-        "Caption": "Shelly Sterling, estranged wife of former Los Angeles Clippers basketball team owner Donald Sterling, leaves for the lunch break during her lawsuit against V. Stiviano in Los Angeles Superior Court on March 25. (Nick Ut/AP)",
-        "First paragraph": "This post has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-03-25/AP/Sterling-Stiviano_Suit-04487.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Donald Sterling’s estranged wife wins back millions he lavished on V. Stiviano",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/15/donald-sterlings-estranged-wife-wins-back-millions-he-lavished-on-mistress/"
-      },
-      {
         "First paragraph": "The Iranian leader, in a televised speech in the northern Iranian city of Rasht, also repeated earlier statements that his country will not accept any comprehensive nuclear deal with world powers unless all sanctions imposed against it are lifted.",
         "Title": "Iran leader: We are in talks with ‘the major powers,’ not the U.S. Congress",
         "url": "http://www.washingtonpost.com/world/iran-says-it-is-negotiating-with-world-powers-not-the-us-congress/2015/04/15/a828b2f0-e349-11e4-81ea-0649268f729e_story.html"
@@ -1523,16 +1081,6 @@
         },
         "Title": "Clinton’s populist theme heartens liberal donors",
         "url": "http://www.washingtonpost.com/politics/clintons-populist-theme-heartens-liberal-donors/2015/04/15/7e5cc4c4-e313-11e4-81ea-0649268f729e_story.html"
-      },
-      {
-        "Caption": "The suspect, Mario Valencia, walks with a loaded gun moments before a patrol car strikes him from behind. (Marana Police Department via Reuters)",
-        "First paragraph": "“Stand off! Stand off! The gun is loaded,” comes the disembodied voice on the dispatch radio.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/AZ-dashcam.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Dashcam video shows Arizona cop running over armed suspect with patrol car",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/15/dashcam-video-shows-arizona-cop-running-over-armed-suspect-with-patrol-car/"
       },
       {
         "First paragraph": "In New York City on Wednesday, more than 100 chanting protesters gathered outside a McDonald’s around noon, prompting the store to lock its doors to prevent the crowd from streaming in.",
@@ -1613,29 +1161,9 @@
         "url": "http://www.washingtonpost.com/world/putin-russia-economy-can-withstand-western-sanctions/2015/04/16/d5ad746a-e3a1-11e4-ae0f-f8c46aa8c3a4_story.html"
       },
       {
-        "Caption": "In March, Doug Hughes flies his gyrocopter near the Wauchula Municipal Airport in Wauchula, Fla. Police didn’t immediately identify the man who steered his one-person helicopter onto the West Lawn of the U.S. Capitol, but Hughes, a Florida postal carrier, took responsibility for the stunt on a Web site. (James Borchuck/Tampa Bay Times via AP)",
-        "First paragraph": "When disgruntled Florida mailman Doug Hughes landed his ultralight gyrocopter on the West Lawn of the U.S. Capitol on Wednesday, he was hoping to stir a debate about campaign finance reform. And maybe he did.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/15/Production/Daily/Style/Images/Capitol_Aircraft-062c7.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Flying mailman becomes most audacious gyrocopter pilot since James Bond",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/16/flying-mailman-becomes-most-famous-gyrocopter-pilot-since-james-bond/"
-      },
-      {
         "First paragraph": "The comments came during nearly two hours of argument before the U.S. Court of Appeals for the District of Columbia Circuit in two cases challenging the Environmental Protection Agency’s proposal to cut heat-trapping pollutants from the nation’s coal-fired power plants that is blamed for global warming.",
         "Title": "Court skeptical of challenge to Obama’s climate change plan",
         "url": "http://www.washingtonpost.com/politics/climate-change-plan-faces-high-profile-legal-test/2015/04/16/c7b169f0-e407-11e4-ae0f-f8c46aa8c3a4_story.html"
-      },
-      {
-        "Caption": "A crew member looks out an observation window aboard a Royal New Zealand Air Force P3 Orion maritime search aircraft as it flies over the southern Indian Ocean, looking for MH370 debris, in 2014. (Richard Polden/Reuters file)",
-        "First paragraph": "The already massive Indian Ocean search zone for Malaysia Airlines Flight 370 will double if wreckage of the missing aircraft isn’t located, government officials said.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-16/Reuters/2015-04-16T093134Z_01_SIN103_RTRIDSP_3_MALAYSIA-AIRLINES-CRASH.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "MH370 search area will be doubled if Malaysia Airlines plane isn’t found",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/16/search-area-for-malaysia-airlines-flight-370-to-double-if-plane-not-found/"
       },
       {
         "First paragraph": "Police said they suspected the group, Open Russia, was preparing banners, leaflets and posters that contained calls for “extremist activity” and planned to distribute them at an opposition protest on Sunday.",
@@ -1648,16 +1176,6 @@
         "url": "http://www.washingtonpost.com/world/europe/eu-struggles-to-confront-challenge-of-mediterranean-migrants/2015/04/16/370f16b2-e41c-11e4-ae0f-f8c46aa8c3a4_story.html"
       },
       {
-        "Caption": "Former Rhode Island governor Lincoln Chafee last week launched an exploratory committee, potentially setting up a Democratic challenge to former secretary of state Hillary Clinton. (AP Photo/Steven Senne)",
-        "First paragraph": "Former Rhode Island governor Lincoln Chafee launched another series of hits on Hillary Clinton’s foreign policy credentials Thursday, accusing her of repeated diplomatic clumsiness, and again highlighting her 2002 vote to authorize the use of military force in Iraq.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/09/National-Politics/Images/DEM_2016_Chafee-0b682.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Lincoln Chafee accuses Hillary Clinton of diplomatic clumsiness, says ‘America loves an underdog’",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/16/lincoln-chafee-accuses-hillary-clinton-of-diplomatic-clumsiness-says-america-loves-an-underdog/"
-      },
-      {
         "First paragraph": "Republicans refer to it as the “death tax.” They say it prevents small business owners and family farmers from passing businesses on to their heirs.",
         "Title": "House passes bill to repeal estate tax",
         "url": "http://www.washingtonpost.com/business/congress-passes-bill-to-repeal-estate-tax/2015/04/16/9d3de5d4-e454-11e4-ae0f-f8c46aa8c3a4_story.html"
@@ -1665,16 +1183,6 @@
       {
         "Title": "Love the newlyweds, hate the wedding",
         "url": "http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/04/16/love-the-newlyweds-hate-the-wedding/"
-      },
-      {
-        "Caption": "(Justin Sullivan/Getty Images)",
-        "First paragraph": "The number of middle and high school students using electronic cigarettes tripled between 2013 and 2014, according to government figures released Thursday, a startling increase that public health officials fear could reverse decades of efforts combating the scourge of smoking.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/16/Others/Images/2015-04-16/4624287581429197850.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "High school, middle school kids now use more e-cigs than tobacco: CDC",
-        "url": "http://www.washingtonpost.com/news/to-your-health/wp/2015/04/16/high-school-middle-school-kids-now-use-more-e-cigs-than-tobacco-cdc/"
       },
       {
         "First paragraph": {
@@ -1730,26 +1238,6 @@
         "url": "http://www.washingtonpost.com/world/national-security/un-chief-calls-for-immediate-cease-fire-in-yemen/2015/04/16/9065378c-e4a8-11e4-ae0f-f8c46aa8c3a4_story.html"
       },
       {
-        "Caption": "Members of the Phoenix Police Department stand in front of a home where authorities say five people were killed after a shooting Thursday in Phoenix. (Ross D. Franklin/AP)",
-        "First paragraph": "Five family members were found dead inside a Phoenix home Thursday evening after an apparent dispute over the family business burst into gunfire. The discovery brought to a close an hours-long standoff that had a residential street swarming with SWAT team officers and police.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-17/AP/Bodies_In_Home-09d27.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Five dead in family dispute after hours-long standoff at Phoenix home",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/17/five-dead-in-family-dispute-after-hours-long-standoff-at-phoenix-home/"
-      },
-      {
-        "Caption": "Gwyneth Paltrow arrives at the Oscars on Feb. 22 at the Dolby Theatre in Los Angeles. (Jordan Strauss/Invision via AP)",
-        "First paragraph": "After four long days living like America’s poor, Gwyneth Paltrow broke her much-mocked attempt at shopping on a food stamp budget in search of some chicken and black licorice.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/02/23/Style/Images/JBS_6560.jpg-0cd64.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "A hungry Gwyneth Paltrow fails the food-stamp challenge four days in",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/17/a-hungry-gwyneth-paltrow-fails-the-food-stamp-challenge-four-days-in/"
-      },
-      {
         "First paragraph": "Tim Clark told The Associated Press that the allegations leveled by U.S. carriers United, Delta and American amounted to a “storm in a teacup.” The three airlines said earlier year that Persian Gulf-based carriers Emirates, Etihad Airways and Qatar Airways have received more than $40 billion of government aid. The U.S. government said last week it was reviewing the charges and asked all interested parties to submit comments.",
         "Title": "President of Emirates air denies US accusations of state aid",
         "url": "http://www.washingtonpost.com/business/emirates-to-buy-92-billion-worth-of-rolls-royce-engines/2015/04/17/c85d90ae-e4e3-11e4-ae0f-f8c46aa8c3a4_story.html"
@@ -1763,15 +1251,6 @@
         "First paragraph": "During a rare oral argument session that lasted 2 1/2 hours — 30 minutes longer than scheduled — a three-judge panel at the U.S. Court of Appeals for the 5th Circuit peppered lawyers from the Justice Department and the state of Texas over whether President Obama acted within his rights when he unilaterally enacted the new border-control policies last fall.",
         "Title": "Justice lawyers make appeal to lift stay on Obama immigration actions",
         "url": "http://www.washingtonpost.com/politics/panel-to-hear-appeal-on-obama-immigration-actions/2015/04/17/d3c23fae-e488-11e4-81ea-0649268f729e_story.html"
-      },
-      {
-        "Caption": "Britt McHenry (ESPN)",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/britt-mchenry-5x7-2-731x1024.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Britt McHenry’s ‘Mean Girls’ routine evokes little sympathy",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/17/britt-mchenrys-mean-girls-routine-evokes-little-sympathy/"
       },
       {
         "First paragraph": {
@@ -1810,16 +1289,6 @@
         "url": "http://www.washingtonpost.com/business/obama-trade-politics-difficult-but-opposition-helps-china/2015/04/17/6c86125a-e520-11e4-ae0f-f8c46aa8c3a4_story.html"
       },
       {
-        "Caption": "Beekeepers hard at work at the scene. (Ian Terry/Reuters)",
-        "First paragraph": "Today in BEE NEWS (that’s a thing, right? Let’s just pretend it’s a thing): A truck loaded with millions and millions of honeybees overturned on a highway in Washington state, releasing just so many bees Friday morning.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-17/Reuters/2015-04-17T175520Z_01_SEA107_RTRIDSP_3_USA-BEES-WASHINGTONSTATE.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Truck carrying millions of bees tips over on highway",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/17/truck-carrying-millions-of-bees-tips-over-on-highway/"
-      },
-      {
         "First paragraph": "Cardinal George, who retired as Chicago archbishop in the fall of 2014, had cancer, according to the Archdiocese of Chicago.",
         "Title": "Cardinal Francis George, retired archbishop of Chicago, dies at 78",
         "url": "http://www.washingtonpost.com/national/religion/cardinal-francis-george-dies-chicago-archbishop-defended-orthodoxy/2015/04/17/f4b1db3c-e534-11e4-81ea-0649268f729e_story.html"
@@ -1848,19 +1317,6 @@
         "First paragraph": "What is much less certain, however, is the fate of George’s legacy as the intellectual lodestar for conservative U.S. Catholics, and how, or whether, that patrimony will endure in the era of Pope Francis.",
         "Title": "Chicago Cardinal Francis George dies at 78, an icon of a conservatism suddenly out of favor",
         "url": "http://www.washingtonpost.com/national/religion/chicago-cardinal-francis-george-dies-at-78-an-icon-of-a-conservatism-suddenly-out-of-favor/2015/04/17/6a6be384-e546-11e4-ae0f-f8c46aa8c3a4_story.html"
-      },
-      {
-        "Caption": "Cardinal Francis George of Chicago died after a long battle with cancer on April 17 at his residence in Chicago. (Scott Olson/Getty Images)",
-        "First paragraph": {
-          "href": "http://usccb.org",
-          "text": "Cardinal Francis George, who died Friday, leaves an indelible mark on Catholicism in the United States as an immensely influential religious leader. George, the previous archbishop of Chicago and a former president of the United States Conference of Catholic Bishops, died at 78 after a protracted battle with cancer."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/17/Obituaries/Images/455788028.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "5 points you need to know about the death of Cardinal George",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/17/5-points-you-need-to-know-about-the-death-of-cardinal-george/"
       },
       {
         "First paragraph": "They are urging the Senate to act immediately and end a process that has lasted more than five months.",
@@ -1920,16 +1376,6 @@
         "First paragraph": "Abbas initially rejected Israel’s unfreezing of the tax funds because it included a deduction to settle debts incurred by his Palestinian Authority, including for unpaid utility bills. Speaking to a gathering of Palestinians leaders, Abbas said that “There is an agreement; the money will be sent in full.”",
         "Title": "Israel, Palestinians agree on tax revenue transfer",
         "url": "http://www.washingtonpost.com/national/israel-palestinians-agree-on-tax-revenue-transfer/2015/04/18/3396d280-e5c1-11e4-ae0f-f8c46aa8c3a4_story.html"
-      },
-      {
-        "Caption": "A bird flies over the sensitive ecological landscape of the Everglades National Park, home to many endangered and rare plants on March 16, 2015 in Miami, Florida. (Photo by Joe Raedle/Getty Images)",
-        "First paragraph": "Saturday morning, President Obama gave a speech on climate change — to preview a bigger speech on climate change.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/03/19/Production/Health/Images/466550048.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Obama will visit the Florida Everglades on Earth Day — to talk about climate change",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/18/obama-to-visit-florida-everglades-on-earth-day-to-talk-about-climate-change/"
       },
       {
         "First paragraph": "In public, mentor Bush and protege Rubio have avoided criticizing each other since Rubio announced his candidacy.",
@@ -2017,26 +1463,6 @@
         "url": "http://www.washingtonpost.com/world/europe/ceremonies-mark-liberation-of-2-nazi-camps-70-years-ago/2015/04/19/690890da-e692-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "This image made from a video released by Islamic State militants on Sunday shows a group of captured Ethiopian Christians taken to a beach before they were killed by Islamic State militants, in Libya. (Militant video via AP)",
-        "First paragraph": "Islamic State militants in Libya shot and beheaded two groups of Ethiopian Christians, a video purportedly from the extremists showed Sunday, according to the Associated Press.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-19/AP/Mideast_Libya_Islamic_State-0a9e2.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Purported ISIS video shows militants killing groups of Ethiopian Christians",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/19/purported-islamic-state-video-shows-militants-killing-ethiopian-christians/?tid%3DhpModule_99d5f542-86a2-11e2-9d71-f0feafdd1394"
-      },
-      {
-        "Caption": "This image made from a video released by Islamic State militants on Sunday shows a group of captured Ethiopian Christians taken to a beach before they were killed by Islamic State militants, in Libya. (Militant video via AP)",
-        "First paragraph": "Islamic State militants in Libya shot and beheaded two groups of Ethiopian Christians, a video purportedly from the extremists showed Sunday, according to the Associated Press.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-19/AP/Mideast_Libya_Islamic_State-0a9e2.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Purported ISIS video shows militants killing groups of Ethiopian Christians",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/19/purported-islamic-state-video-shows-militants-killing-ethiopian-christians/"
-      },
-      {
         "First paragraph": {
           "href": "http://www.washingtonpost.com/wp-srv/national/longterm/oklahoma/stories/firststory.htm",
           "text": "Standing at the spot where the nine-story Alfred P. Murrah Federal Building was destroyed, Clinton spoke of the legacy of the bombing, the deadliest terrorist act in the United States before the 9/11 attacks."
@@ -2080,16 +1506,6 @@
         "url": "http://www.washingtonpost.com/world/calls-for-action-in-europe-after-migrant-disaster-in-mediterranean/2015/04/19/c7bc9040-e697-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "The White House early Monday morning. (The Washington Post)",
-        "First paragraph": "This post has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/IMG_1048.JPG-1024x720.jpeg&w=1484",
-          "text": ""
-        },
-        "Title": "Another White House fence-jumper arrested",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/20/report-another-white-house-gate-jumper-arrested/"
-      },
-      {
         "First paragraph": "Survivor accounts of the number aboard varied, with the Italian Coast Guard saying that the capsized boat had a capacity for “hundreds” of people. Italian prosecutors said a Bangladeshi survivor flown to Sicily for treatment told them 950 people were aboard, including hundreds who had been locked in the hold by smugglers. Earlier, authorities said a survivor told them 700 migrants were on board.",
         "Title": "Survivor: Smugglers locked hundreds in hold of capsized boat",
         "url": "http://www.washingtonpost.com/world/europe/survivor-smugglers-locked-hundreds-in-hold-of-capsized-boat/2015/04/20/dc00e69c-e718-11e4-8581-633c536add4b_story.html"
@@ -2108,16 +1524,6 @@
         "First paragraph": "Clinton, campaigning for the Democratic nomination in the liberal bastion of Keene, pushed back against accusations that foreign governments that made donations to the Clintons’ charity received preferential treatment from the State Department while she served in the Obama administration.",
         "Title": "Clinton defends family foundation from charges of favoritism",
         "url": "http://www.washingtonpost.com/politics/clinton-trying-to-recapture-that-new-hampshire-magic/2015/04/20/e04d0024-e72b-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "Left: Tim Tebow in 2014. (Brynn Anderson/AP). Right: Michael Vick in 2014. (Jemal Countess/Getty Images for Saks Fifth Avenue)",
-        "First paragraph": "This past Lord’s Day, Tim Tebow had a message for the world. He cribbed it from a well-known letter from the Apostle Paul to his friends in Christ.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/Tebow-vick.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Tim Tebow, welcome to Philadelphia, the city of second chances",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/20/tim-tebow-welcome-to-philadelphia-the-city-of-second-chances/"
       },
       {
         "First paragraph": "Secret Service officers said they arrested 54-year-old Jerome R. Hunt of Sacramento, California, about 10:25 p.m. Sunday after he climbed over a fence surrounding the executive mansion. He was arrested on a misdemeanor charge of unlawful entry.",
@@ -2151,16 +1557,6 @@
         "First paragraph": "A 25-year-old man who died several days after being arrested by Baltimore police suffered a fatal spinal injury, authorities said Monday, as city officials announced that six police officers have been suspended.",
         "Title": "Baltimore police: Freddie Gray died from a ‘tragic injury to his spinal cord’",
         "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/20/baltimore-police-freddie-gray-arrested-without-force-or-incident-before-fatal-injury/"
-      },
-      {
-        "Caption": "A protest outside the Tulsa County sheriff’s office last week. (James Gibbard/Tulsa World via AP)",
-        "First paragraph": "Tulsa County Sheriff Stanley Glanz said Monday that two officers present when a reserve deputy shot and killed a man have been reassigned after receiving threats.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-15/AP/Killings_by_Police-Oklahoma-0fbc3.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Tulsa sheriff says deputies seen in shooting video were reassigned after receiving threats",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/20/tulsa-sheriff-says-deputies-seen-in-shooting-video-were-reassigned-after-receiving-threats/"
       },
       {
         "First paragraph": "Prosecutors have arrested the Tunisian captain and a Syrian crew member of a boat that capsized off the coast of Libya with hundreds of people aboard in what may be the deadliest migrant tragedy ever.",
@@ -2222,19 +1618,6 @@
         "url": "http://www.washingtonpost.com/world/asia_pacific/s-koreas-prime-minister-offers-to-resign-amid-scandal/2015/04/20/9cc11096-e7c8-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "Local residents and rescue workers help a migrant woman after a boat carrying migrants sank off the island of Rhodes in southeastern Greece on April 20. (AFP/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/world/wp/2015/04/19/hundreds-feared-dead-after-migrant-boat-capsizes-in-mediterranean",
-          "text": "Reports of the worst ever migrant sea disaster on the Mediterranean — where as many as 850 migrants are thought to have drowned this weekend — had European officials scrambling to address the crisis at what is being called the world’s “deadliest border crossing.”"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-20/Getty/Par8153159.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "The real reason for the Mediterranean migrant crisis",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/21/the-real-reason-for-the-mediterranean-migrant-crisis/"
-      },
-      {
         "First paragraph": "The U.N. estimate would confirm fears that the accident was the single worst disaster involving the flow of migrants seeking to reach Europe across the Mediterranean Sea.",
         "Title": "U.N. estimates up to 850 migrants perished in capsized boat off Libya",
         "url": "http://www.washingtonpost.com/world/un-says-between-800-and-850-migrants-died-in-boat-capsizing-off-libya/2015/04/21/a8383770-e803-11e4-9767-6276fc9b0ada_story.html"
@@ -2262,19 +1645,6 @@
         "url": "http://www.washingtonpost.com/world/africa/al-shabab-bombs-un-van-in-somalia-4-unicef-workers-killed/2015/04/21/5acac2fa-e7db-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "A flock of turkeys at a Minnesota poultry farm. Nearly 8 million chickens and turkeys have been infected in an outbreak of bird flu in the Midwest, including 5.3 million hens at an Iowa farm. (Bethany Hahn/AP)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/business/bird-flu-confirmed-at-iowa-farm-with-53-million-chickens/2015/04/20/177eb580-e7a7-11e4-8581-633c536add4b_story.html",
-          "text": "An Iowa farm must destroy up to 5.3 million hens after the deadly bird flu virus was found among its flock, the U.S. Department of Agriculture announced Monday."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-16/AP/Bird_Flu-0d211.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Millions of hens to be euthanized at Iowa farm with bird flu",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/21/millions-of-hens-to-be-euthanized-at-iowa-farm-with-bird-flu/"
-      },
-      {
         "First paragraph": {
           "href": "https://www.osv.com/Article/TabId/493/ArtMID/13569/ArticleID/17347/Vatican-accepts-resignation-of-Kansas-City-St-Joseph-Bishop-Robert-Finn-names-Archbishop-Naumann-as-temporary-administrator.aspx",
           "text": "The Vatican on Tuesday announced the resignation of a Kansas City, Mo., bishop who was convicted of a sex abuse coverup but remained in office – a fact that particularly horrified abuse survivors and their advocates. Bishop Robert Finn’s resignation will be seen as a key achievement for Pope Francis, who has said his papacy would show more accountability for abuse within the church."
@@ -2293,19 +1663,6 @@
         "url": "http://www.washingtonpost.com/national/religion/5-lessons-from-the-resignation-of-bishop-robert-finn-analysis/2015/04/21/d1317f48-e843-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "Martin Richard’s family, from left: Denise, his mother; Henry, his brother; Bill Richard, his father. (Charles Krupa/AP)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/world/national-security/jury-weighs-verdict-for-second-day-in-boston-marathon-bombing-trial/2015/04/08/11755a56-ddf0-11e4-a500-1c5bb1d8ff6a_story.html",
-          "text": "The jury that convicted Dzhokhar Tsarnaev for the Boston Marathon bombing gathered Tuesday to begin figuring out how he should be punished. Will Tsarnaev be sentenced to die by lethal injection? Or will he be sentenced to life in prison without parole?"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/20/Editorial-Opinion/Images/AP596932723163.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Boston Marathon bombing trial shifts to the death penalty question",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/21/boston-marathon-bombing-trial-shifts-to-the-death-penalty-question/"
-      },
-      {
         "First paragraph": "Oskar Groening’s job was simple: He counted stolen money and guarded the belongings of thousands of Jews who were brought to Auschwitz to be murdered.",
         "Title": "The moral guilt of Oskar Groening, the ‘Accountant of Auschwitz’",
         "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/21/the-moral-guilt-of-oskar-groening-the-accountant-of-auschwitz/"
@@ -2319,16 +1676,6 @@
         "First paragraph": "An agreement announced by Senate leaders allowed both Republicans and Democrats to save face on a once-uncontroversial bill to help sex-trafficking victims that had turned into a litmus test on abortion.",
         "Title": "Obama attorney general nominee heads for vote after 5 months",
         "url": "http://www.washingtonpost.com/politics/whitehouse/senate-nears-votes-on-trafficking-bill-loretta-lynch/2015/04/21/b489af20-e7f6-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "(Rick Sforza/The Sun via AP)",
-        "First paragraph": "Authorities in southern California said Tuesday that they will pay more than half a million dollars to a man who was beaten by sheriff’s deputies after a horseback chase earlier this month.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-10/AP/Horse-Chase-Sheriff-Beating-05172.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "California county will pay $650,000 to man beaten by deputies after chase",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/21/california-county-will-pay-650000-to-man-beaten-by-deputies-after-chase/"
       },
       {
         "First paragraph": "Illnesses in two more states have been linked to ice cream contaminated by Listeria, federal officials said Tuesday, a day after Blue Bell Creameries issued a nationwide recall of all of its products due to an ongoing outbreak of the potentially deadly foodborne illness.",
@@ -2389,32 +1736,9 @@
         "url": "http://www.washingtonpost.com/politics/whitehouse/obama-attorney-general-nominee-heads-for-vote-after-5-months/2015/04/21/731de3de-e888-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "Rapper Waka Flocka Flame in 2012. (Kevin Winter/Getty Images)",
-        "First paragraph": {
-          "href": "https://www.youtube.com/watch?v=7D7zdMf0Jes",
-          "text": "Five years ago, a 23-year-old hip-hop artist with long hair and a chest full of tattoos, found himself at the center of a national controversy. Atlanta MC Waka Flocka Flame, the man born Juaquin James Malphurs known for his gritty track “Hard in the Paint,” found the song spoofed in a controversial parody video featuring a President Obama impressionist spouting the N-word."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/144054642.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Waka Flocka Flame’s curious presidential campaign",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/22/inside-waka-flocka-flames-misguided-presidential-campaign/"
-      },
-      {
         "First paragraph": "The young man who died of traumatic spinal injury a week after his April 12 arrest used to give his hand-me-down clothes to younger children and crack jokes whenever anyone was having a bad day, they said.",
         "Title": "Friends: Man’s death after arrest reveals Baltimore dynamics",
         "url": "http://www.washingtonpost.com/national/justice-dept-opens-baltimore-police-probe-1k-protest/2015/04/21/a4cecc7a-e88a-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "The sun sets on the address where Nav Sarao Futures Ltd. is registered, in London on April 21, 2015. (Neil Hall/Reuters)",
-        "First paragraph": "This post has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-21/Reuters/2015-04-21T215355Z_01_DJM101_RTRIDSP_3_FLASHCRASH-CHARGES.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "How computerized trading in the hands of a nobody in Britain allegedly crashed the stock market",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/22/how-computerized-trading-in-the-hands-of-a-nobody-in-britain-allegedly-crashed-the-stock-market/"
       },
       {
         "First paragraph": {
@@ -2428,19 +1752,6 @@
         "First paragraph": "Prime Minister Shinzo Abe told Asian and African leaders in Indonesia on Wednesday that Japan has “feelings of deep remorse” over the war. But he did not express a “heartfelt apology” for Japan’s past “colonial rule and aggression” — key phrases that previous prime ministers have used in official statements about the war.",
         "Title": "Japanese leader doesn’t offer customary apology for WWII",
         "url": "http://www.washingtonpost.com/world/asia_pacific/japanese-leader-doesnt-offer-customary-apology-for-wwii/2015/04/22/8d9baaf2-e8ce-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "New Zealand Prime Minister John Key in January 2015 in London. (Carl Court/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.cnn.com/2015/04/22/asia/john-key-new-zealand-hair-pulling/",
-          "text": "New Zealand Prime Minister John Key is being called a “playground bully” after a waitress claimed that he repeatedly pulled her hair during visits to the cafe where she worked."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/461777384.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "New Zealand’s ponytail-pulling prime minister becomes national embarrassment",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/22/new-zealands-ponytail-pulling-prime-minister-becomes-national-embarrassment/"
       },
       {
         "First paragraph": "The sides on Wednesday began negotiating the last phases of a deal that would lift sanctions on Iran if it agrees to long-term curbs on its nuclear program. They wouldn’t have gotten there without compromises by both Washington and Tehran.",
@@ -2457,19 +1768,6 @@
         "url": "http://www.washingtonpost.com/national/protesters-take-to-baltimore-streets-after-mans-death/2015/04/22/5bc682da-e8ed-11e4-aae1-d642717d8afa_gallery.html"
       },
       {
-        "Caption": "Pope Francis leads a Mass for Armenian Catholics marking 100 years since the mass killings of Armenians under the Ottoman Empire, on April 12 at St Peter’s basilica in the Vatican. (Andreas Solaroandreas Solaro / AFP/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/local/pope-francis-takes-a-public-role-in-us-cuba-relations/2014/12/17/9a394168-862f-11e4-a702-fa31ff4ae98e_story.html",
-          "text": "Pope Francis, who has taken a public role in U.S.-Cuba relations, will visit Cuba on the way to the United States this fall, the Vatican announced Wednesday."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-12/Getty/DV2004607.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Why Pope Francis will visit Cuba on his way to the U.S.",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/22/why-pope-francis-will-visit-cuba-on-his-way-to-the-u-s/"
-      },
-      {
         "First paragraph": "The continued airstrikes suggested that the U.S.-backed offensive, aimed at restoring Yemen’s internationally recognized president, was entering a new phase in which the Saudi-led military action will be scaled back but not halted completely.",
         "Title": "New airstrikes in Yemen after Saudis say operation over",
         "url": "http://www.washingtonpost.com/world/middle_east/campaign-against-yemen-rebels-enters-new-phase-saudi-says/2015/04/21/c1455406-e884-11e4-8581-633c536add4b_story.html"
@@ -2478,16 +1776,6 @@
         "First paragraph": "As heavy bombing of Houthi rebel positions was reported in Taiz, in southwest Yemen, Saudi Arabia’s ambassador to the United States said his government would also take action to stop rebel forces­ who were moving into the port city of Aden from three directions.",
         "Title": "Saudis launch new airstrikes as U.S. concerns grow about Yemen war",
         "url": "http://www.washingtonpost.com/world/middle_east/reports-airstrikes-hit-rebels-in-yemen-despite-bid-for-political-outreach/2015/04/22/cd62340c-e8de-11e4-aae1-d642717d8afa_story.html"
-      },
-      {
-        "Caption": "A Great Egret looks on in the Florida Everglades on August 5, 2010. (Photo by Joe Raedle/Getty Images)",
-        "First paragraph": "President Obama will visit an ecologically sensitive national park on Wednesday in a politically sensitive state.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2012/03/28/Travel/Images/103257964_1332946681.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Obama visits the Everglades to talk about climate change — and goad Republicans to do the same",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/22/obama-visits-the-everglades-to-talk-about-climate-change-and-goad-republicans-to-do-likewise/"
       },
       {
         "First paragraph": "Francis will make a Cuba landing in late September before his previously scheduled stops in Philadelphia, New York and Washington, where he is expected to meet with President Obama and address Congress.",
@@ -2538,15 +1826,6 @@
         "url": "http://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/04/22/raisin-takings-case-oral-argument-goes-badly-for-the-government/"
       },
       {
-        "First paragraph": "",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/the-fix/files/2015/04/rand1.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Here’s Rand Paul wearing sunglasses on the Senate floor and fist bumping Harry Reid",
-        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/04/22/heres-rand-paul-wearing-sunglasses-on-the-senate-floor-and-fist-bumping-harry-reid/"
-      },
-      {
         "First paragraph": "A similar bill is expected to pass the chamber Thursday. Both measures will then be fashioned into a package to be sent to the Senate.",
         "Title": "House set to produce first major cyber legislation in years",
         "url": "http://www.washingtonpost.com/world/national-security/house-set-to-produce-first-major-cyber-legislation-in-years/2015/04/22/05032afc-e92e-11e4-aae1-d642717d8afa_story.html"
@@ -2566,19 +1845,6 @@
         "url": "http://www.washingtonpost.com/politics/obamas-fight-for-trade-authority-faces-radically-altered-political-landscape/2015/04/22/0a378a90-e8e8-11e4-aae1-d642717d8afa_story.html"
       },
       {
-        "Caption": "Michael Brown’s parents — Lesley McSpadden, left, and Michael Brown, Sr. — during an interview in Washington last year. (Susan Walsh/AP)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/23/michael-browns-family-files-wrongful-death-lawsuit-against-ferguson/",
-          "text": "[Update: The lawsuit was filed Thursday morning. Head here for more.]"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/09/28/National-Politics/Images/Police_Shooting_Missouri_Parents-0305c.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Family of Michael Brown to announce civil suit against the city of Ferguson",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/22/family-of-michael-brown-to-announce-civil-lawsuit-against-ferguson/"
-      },
-      {
         "First paragraph": "The goal of the president’s first trip to the Everglades was to highlight the natural environment — and the risks, he said, of ignoring the effects of global warming to places like it.",
         "Title": "Obama issues stark warning on climate change in South Florida on Earth Day",
         "url": "http://www.washingtonpost.com/politics/obams-issues-stark-warning-on-climate-change-in-south-florida-on-earth-day/2015/04/22/532319b0-e927-11e4-9767-6276fc9b0ada_story.html"
@@ -2587,26 +1853,6 @@
         "First paragraph": "Prosecutors rested their case after playing the video during the testimony of a man who lost his leg in the bombing, and jurors watched as the mother pleaded with her little boy.",
         "Title": "Prosecution rests in penalty phase of Boston bomber’s trial",
         "url": "http://www.washingtonpost.com/national/victims-describe-injuries-loss-at-marathon-bombing-trial/2015/04/23/c0c6cdb4-e976-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "The Calbuco volcano seen from Puerto Montt, Chile, on April 22. (Alex Vidal Brecas/European Pressphoto Agency)",
-        "First paragraph": "This story has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/04716828-1024x683.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Chile’s Calbuco volcano erupts with vivid clouds of ash",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/23/chiles-calbuco-volcano-erupts-with-vivid-clouds-of-ash/"
-      },
-      {
-        "Caption": "Democratic presidential candidate and former secretary of state Hillary Rodham Clinton delivers remarks at the Hillary Rodham Clinton Awards for Advancing Women in Peace and Security at Georgetown University on April 22, 2015 in Washington. (Photo by Win McNamee/Getty Images)",
-        "First paragraph": "Democratic presidential candidate Hillary Rodham Clinton's campaign on Wednesday accused congressional Republicans of politicizing the deaths of four Americans in Benghazi, Libya, by dragging out an investigation until the waning months of the 2016 election.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-22/Getty/470694442.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Clinton campaign accuses GOP of politicizing American deaths in Benghazi",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/22/clinton-accuses-gop-of-politicizing-american-deaths-in-benghazi/"
       },
       {
         "First paragraph": {
@@ -2620,19 +1866,6 @@
         "First paragraph": "Attorneys for the family of Michael Brown announced their plans in a statement Wednesday night.",
         "Title": "Michael Brown’s parents set to sue the city of Ferguson",
         "url": "http://www.washingtonpost.com/national/civil-lawsuit-to-be-filed-thursday-in-michael-browns-death/2015/04/22/1f95865c-e966-11e4-8581-633c536add4b_story.html"
-      },
-      {
-        "Caption": "A freezer in a grocery store Overland Park, Kan.. (Jamie Squire/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/world/the-us-military-is-back-training-troops-in-iraq-but-its-a-little-different-this-time/2015/01/08/11b9aa58-95f2-11e4-8385-866293322c2f_story.html",
-          "text": "Twenty miles north of Baghdad was not a great place to be in 2004. It was less than a year after the United States invaded Iraq, wreaking widespread destruction as it ousted Saddam Hussein and searched for weapons of mass destruction. And, deployed at Camp Taji, Jim Boyd was feeling lonely — until he found a postcard on the ground with a picture of a pint container of Blue Bell Homemade Vanilla Ice Cream."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/470537656-1024x683.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Blue Bell, an ‘old-timey, country company,’ vs. Listeria",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/23/blue-bell-listeria-outbreak-breaks-hearts-in-texas/"
       },
       {
         "First paragraph": "An agency expert had warned in 2010 that the alarm system, which monitors the property and the house, was aging and likely to fail. But Secret Service officials rejected his request to replace it, according to the report, which was written by the Department of Homeland Security’s inspector general and reviewed by The Washington Post.",
@@ -2654,16 +1887,6 @@
         "url": "http://www.washingtonpost.com/politics/report-alarm-at-ghw-bush-home-broken-for-13-months/2015/04/23/31313b66-e9c2-11e4-8581-633c536add4b_story.html"
       },
       {
-        "Caption": "“SNL’s” Cecily Strong is the first woman to host the WHCD since 2009. (Getty Images)",
-        "First paragraph": "“Saturday Night Live’s” Cecily Strong is the most unlikely White House Correspondents’ Dinner host in recent years. She’s famous, but not famous-famous. She’s not a stand-up, nor does she host anything. She’s also not a white man: Strong, 31, is the first female to host since Wanda Sykes in 2009. As such, her speech Saturday could be something special. Don’t know who she is? I’m here to help.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/express/wp-content/uploads/2015/04/461063030-1024x933.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Here’s why Cecily Strong has the comedy chops to host the White House Correspondents’ Dinner",
-        "url": "http://www.washingtonpost.com/express/wp/2015/04/23/heres-why-cecily-strong-has-the-comedy-chops-to-host-the-white-house-correspondents-dinner/"
-      },
-      {
         "First paragraph": "The White House Correspondents' Dinner is Saturday, with festivities starting Thursday and lasting all weekend. The annual funniest/glitziest/most over-done night in Washington will be full of self-deprecating laughs and selfies with celebrities.",
         "Title": "This year’s White House Correspondents’ Dinner, explained",
         "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/04/23/heres-what-to-expect-at-this-years-white-house-correspondents-dinner/"
@@ -2683,16 +1906,6 @@
       {
         "Title": "Five myths about the White House Correspondents’ Dinner",
         "url": "http://www.washingtonpost.com/opinions/five-myths-about-the-white-house-correspondentsdinner/2015/04/22/03f9f79c-e511-11e4-81ea-0649268f729e_story.html"
-      },
-      {
-        "Caption": "Americans for Prosperity Foundation Chairman David Koch. (AP Photo/Phelan M. Ebenhack, File)",
-        "First paragraph": "Sen. Marco Rubio (R-Fla.) waded into the high-stakes jockeying for the backing of the billionaire industrialist Koch brothers on Thursday, telling reporters he is \"clearly aligned\" with them on key issues.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2014-03-10/AP/Billionaire_Politics-04dde.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Rubio says he ‘would love to earn’ support of the Kochs",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/23/rubio-says-he-would-love-to-earn-support-of-the-kochs/"
       },
       {
         "First paragraph": "Addressing a meeting billed as an international peace summit Thursday, Recep Tayyip Erdogan also accused the international community of indifference toward refugees and wanting migrants to drown at sea.",
@@ -2733,16 +1946,6 @@
         "First paragraph": "Lynch is expected to be sworn in as the nation’s 83rd attorney general Monday, according to Justice Department officials not authorized to comment publicly.",
         "Title": "Loretta Lynch confirmed by Senate as attorney general",
         "url": "http://www.washingtonpost.com/politics/loretta-lynch-confirmation-likely-today-in-senate-after-5-month-wait/2015/04/23/d8a3d9a8-e96d-11e4-9a6a-c1ab95a0600b_story.html"
-      },
-      {
-        "Caption": "Just some nerds at a party before the 2014 Nerd Prom, nerding out. (Photo by Andrew H. Walker/Getty Images for Yahoo News)",
-        "First paragraph": "With the dinner being held tonight, we are re-upping our posts from this week previewing the festivities.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/05/03/Interactivity/Images/mobile-488059301.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Nerd Prom’ is a gross, self-congratulatory name for the White House Correspondents’ Dinner. Stop.",
-        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/04/23/anyone-who-calls-the-correspondents-dinner-nerd-prom-will-hereby-be-shunned/"
       },
       {
         "First paragraph": "President Joachim Gauck said it is clear today that “the fate of the Armenians is exemplary for the history of mass destruction, ethnic cleansing, expulsions and genocides which marks the 20th century in such a terrible way.”",
@@ -2828,19 +2031,6 @@
         "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/24/everybody-loves-raymond-actor-commits-suicide/"
       },
       {
-        "Caption": "Maj. Gen. David Petraeus gave the thumbs up to his troops, family and friends after a ceremony marking his division’s official return from Iraq to Fort Campbell, Ky., on Feb. 14, 2004. (John Sommers II/Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/wp-dyn/content/article/2007/03/18/AR2007031801587.html",
-          "text": "A little more than eight years ago, America’s war in Iraq was in shambles. Thousands of U.S. troops and an untold number of Iraqis were dead. Reports of Saddam Hussein’s “tens of thousands of teaspoons” of anthrax proved unfounded. And the war intended to liberate a nation from a dictator was looking more and more like a huge debacle."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/Merlin_1009015-1024x783.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Gen. David Petraeus: From hero to zero",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/24/gen-david-petraeus-from-hero-to-zero/"
-      },
-      {
         "First paragraph": "Police said Friday that the accident occurred at around 10:30 p.m. (2030 GMT) Thursday night near the central Macedonian town of Veles, as the migrants followed the tracks to head north. The train was an express passenger train travelling from the northern Greek city of Thessaloniki to the Serbian capital of Belgrade.",
         "Title": "Police: 14 migrants killed by train in Macedonia",
         "url": "http://www.washingtonpost.com/world/europe/police-14-migrants-killed-by-train-in-macedonia/2015/04/24/250abf44-ea5b-11e4-8581-633c536add4b_story.html"
@@ -2866,26 +2056,6 @@
         "url": "http://www.washingtonpost.com/world/asia_pacific/australia-cant-do-more-for-death-row-prisoners-in-indonesia/2015/04/27/270f4d4a-ed59-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "In this photo, released on Monday, a rescue helicopter is shown at Mount Everest’s south base camp. (6summitschallenge.com/Reuters)",
-        "First paragraph": "A precarious rescue effort at the top of the world concluded Monday, with daring helicopter pilots ferrying stranded climbers to relative safety from the uppermost reaches of Mount Everest, the world’s deadliest peak.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-27/Reuters/2015-04-27T162813Z_01_TOR306_RTRIDSP_3_QUAKE-NEPAL.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Stranded Mount Everest climbers now rescued",
-        "url": "http://www.washingtonpost.com/news/world/wp/2015/04/27/rescuers-begin-airlifting-mount-everest-climbers-to-safety/"
-      },
-      {
-        "Caption": "An October 2010 picture shows Australian Andrew Chan (R) and Myuran Sukumaran (c) talking to their lawyer from inside a holding cell. (EPA/MADE NAGI)",
-        "First paragraph": "Indonesia has executed two Australians who had been convicted of drug charges, in a sentence that was was carried out despite global pleas to spare the duo from a firing squad.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-06/Bloomberg/04693362.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Bali Nine’ leaders executed by firing squad in Indonesia",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/28/bali-nine-leaders-in-indonesia-could-face-death-by-firing-squad-wednesday/"
-      },
-      {
         "First paragraph": "That’s normally a safe haven for gay rights activists — Kennedy has written each of the court’s major victories advancing their movement. But the question after the hearing seemed to be whether forcing reluctant states to allow same-sex unions was a logical extension of the court’s rulings or too much, too fast.",
         "Title": "Supreme Court hears arguments in historic gay-marriage case",
         "url": "http://www.washingtonpost.com/politics/courts_law/supreme-court-will-hear-historic-arguments-in-gay-marriage-cases/2015/04/27/083d9302-ed24-11e4-8666-a1d756d0218e_story.html"
@@ -2904,19 +2074,6 @@
         "First paragraph": "KPRC television station in Houston (http://bit.ly/1GqFfjb ) reports that Irwin Horwitz sent the email Thursday informing them of their failing grades and saying he’ll no longer teach the class.",
         "Title": "Texas A&M Galveston professor fails entire class",
         "url": "http://www.washingtonpost.com/national/higher-education/texas-aandm-galveston-professor-fails-entire-class/2015/04/28/dd829590-edaa-11e4-8050-839e9234b303_story.html"
-      },
-      {
-        "Caption": "Charles Gladden, who is homeless, works in the Dirksen Senate Office Building kitchen. (Jabin Botsford/The Washington Post)",
-        "First paragraph": {
-          "href": "http://blogs.rollcall.com/hill-blotter/senate-contractors-to-join-federal-workers-strike-at-capitol/?dcz=",
-          "text": "Thanks to protests last week, the public now knows that some of the workers serving meals to U.S. Senate's members, staff and visitors are paid barely enough to scrape by. Many rely on government benefits like food stamps, and at least one of them -- 63-year-old Charles Gladden -- is homeless, spending his nights outside a downtown Metro station."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/04/22/Others/Images/2015-04-22/Botsford_Rampell_15_04_21_08131429714090.jpg?uuid=nObY0Oj-EeSFgWM8U2rdSw&w=1484",
-          "text": ""
-        },
-        "Title": "Senate Democrats urge better pay for Capitol jobs contracted out by Senate Democrats",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/28/senate-democrats-urge-better-pay-for-capitol-jobs-contracted-out-by-senate-democrats/"
       },
       {
         "Title": "Indonesia says 8 foreigners, 1 Indonesian to be executed after midnight for drug crimes",
@@ -2978,16 +2135,6 @@
         },
         "Title": "2015 the ‘last effective opportunity’ to safely limit warming, says Vatican conference statement",
         "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/28/2015-may-be-the-last-effective-opportunity-to-safely-limit-warming-says-vatican-conference-statement/"
-      },
-      {
-        "Caption": "NFL Commissioner Roger Goodell addresses the media at a news conference at the NFL Annual Meeting in Phoenix. (AP Photo/Ross D. Franklin, File)",
-        "First paragraph": "The National Football League said Tuesday it will end its tax-exempt status, squashing one of America’s most baffling corporate tax breaks and granting the mega-business more secrecy about its inner financial workings.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-28/AP/APSE_Goodell_Football-0d0e5.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "The NFL is dropping its tax-exempt status. Why that ends up helping them out.",
-        "url": "http://www.washingtonpost.com/news/business/wp/2015/04/28/the-nfl-is-dropping-its-tax-exempt-status-why-that-ends-up-helping-them-out/"
       },
       {
         "Title": "Great Falls Elementary School welcomes Michelle Obama, Akie Abe",
@@ -3084,55 +2231,9 @@
         "url": "http://www.washingtonpost.com/politics/key-things-to-know-about-sen-bernie-sanders-of-vermont/2015/04/29/d6df5e88-ee42-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "Jack Ely, a co-founder of the Kingsmen best known for his 1963 rendition of the song “Louie Louie,” in 2009. (Don Ryan/AP)",
-        "First paragraph": "The song that made Jack Ely famous is one in which he can hardly be heard.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-29/AP/Obit_Louie_Louie_Singer-0a18a.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Louie Louie’ singer Jack Ely dead at 71",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/29/louie-louie-singer-jack-ely-dead-at-71/"
-      },
-      {
         "First paragraph": "The royal decrees, read on state television before dawn, thrust a younger generation of princes closer to the pinnacle of power at a time of growing challenges for the Western-allied kingdom.",
         "Title": "In a surprise move, Saudi Arabia’s monarch shakes up line of succession",
         "url": "http://www.washingtonpost.com/world/king-salman-shakes-up-royal-family/2015/04/29/d1d803e9-8b42-49df-a9fd-6198ecfc6a29_story.html"
-      },
-      {
-        "Caption": "This artist rendering shows former Michigan Solicitor General John Bursch making arguments to, from, left, Justices Sonia Sotomayor, Stephen Breyer, Antonin Scalia,, Ruth Bader Ginsburg, Samuel Alito Jr. and Elena Kagan. (Dana Verkouteren/AP)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/politics/courts_law/supreme-court-will-hear-historic-arguments-in-gay-marriage-cases/2015/04/27/083d9302-ed24-11e4-8666-a1d756d0218e_story.html",
-          "text": "The Supreme Court on Tuesday heard oral arguments in the four cases consolidated under the title of Obergefell v. Hodges, to consider whether the Constitution requires states to issue marriage licenses to same-sex couples, and whether states must recognize same-sex marriages performed in other states where they are legal.  Justices appeared somewhat split along ideological lines in their questioning. (Audio may not work on all devices.)"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/post-nation/wp-content/uploads/sites/23/2015/04/Supreme_Court_Gay_Marriage-0c44f.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Supreme Court hears same-sex marriage case: Who said what (with audio)",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/04/28/supreme-court-hears-arguments-in-same-sex-marriage-case-obergefell-v-hodges-today/"
-      },
-      {
-        "Caption": "(Danish Siddiqui/Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/world/asia_pacific/nepal-quake-survivor-drank-urine-while-trapped-for-82-hours/2015/04/29/4e19bd20-ee31-11e4-8050-839e9234b303_story.html",
-          "text": "Rishi Khanal is lucky to be alive. The 27-year-old man was trapped inside a collapsed building for about 82 hours alongside three dead bodies before a search-and-rescue team pulled him out on Tuesday. Khanal told the Associated Press: “I had some hope, but by yesterday I’d given up.”"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/RTX1AP04-1024x718.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "The incredible rescue of a Nepal earthquake survivor trapped for 82 hours",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/29/the-incredible-rescue-of-a-nepal-earthquake-survivor-trapped-for-82-hours/"
-      },
-      {
-        "Caption": "“The Partridge Family”: back row, from left, cast members Shirley Jones, Dave Madden, David Cassidy, Susan Dey; and front row, from left, Brian Forster, Danny Bonaduce and Suzanne Crough. (Sony Pictures Television via AP)",
-        "First paragraph": "Suzanne Crough, fallen Partridge, in action.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/Obit-Dave_Madden-0a232-JLKY.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Suzanne Crough, Partridge Family’s clutch tambourine player, is dead at 52",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/29/suzanne-crough-partridge-familys-clutch-tambourine-player-is-dead-at-52/"
       },
       {
         "First paragraph": "Still, anger and anxiety hung over Baltimore.",
@@ -3277,19 +2378,6 @@
         "url": "http://www.washingtonpost.com/world/asia_pacific/last-us-marines-to-leave-saigon-describe-chaos-of-wars-end/2015/04/30/d2183ec4-ef2d-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "Birds fly across the sky at daybreak over downtown Los Angeles in 2011. (Frederic J. Brown/AFP/Getty Images)",
-        "First paragraph": {
-          "href": "http://www.lung.org/press-room/press-releases/healthy-air/2015-stateoftheair.html",
-          "text": "California has had a rough go this year. The state’s historic drought is impacting the lives of Californians, and now the drought is exacerbating California’s air pollution, according a new report by the American Lung Association."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/04/135787962-1024x621.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "The 10 most polluted cities in the U.S.",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/30/the-10-most-polluted-cities-in-the-u-s/"
-      },
-      {
         "First paragraph": "He had been there for five days since Saturday’s massive earthquake, unharmed but alone and unable to move, until Nepali police finally heard his voice calling for help.",
         "Title": "Rescuers pull ‘miracle’ survivor from quake rubble in Nepal’s capital",
         "url": "http://www.washingtonpost.com/world/rescuers-pull-nepalese-teen-out-from-under-rubble-five-days-after-quake/2015/04/30/8adc6c0c-ef09-11e4-a55f-38924fca94f9_story.html"
@@ -3354,29 +2442,9 @@
         "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/30/strap-on-your-helmets-may-is-announcement-month/"
       },
       {
-        "Caption": "In this April 29, 1975, photo, a helicopter lifts off from the U.S. Embassy in Saigon, Vietnam, during last-minute evacuation of authorized personnel and civilians. (AP Photo/File)",
-        "First paragraph": "In the waning moments of the U.S. war in Vietnam, U.S. Ambassador Graham Martin called for an evacuation of the U.S. Embassy in Saigon. North Vietnamese forces were rolling south toward the city, and thousands of Americans and South Vietnamese needed to be evacuated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-29/AP/Vietnam_War_Fall_Of_Saigon_Photo_Gallery-03b34.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Vietnam remembered: The fall of Saigon in photos, 40 years later",
-        "url": "http://www.washingtonpost.com/news/checkpoint/wp/2015/04/30/vietnam-remembered-the-fall-of-saigon-in-photos-40-years-later/"
-      },
-      {
         "First paragraph": "President Obama spoke to students at a D.C. library Thursday and was promptly cut off by the student moderator, 6th-grader Osman Yaya, when he went long answering a question about how to overcome writer's block.",
         "Title": "That time Obama got cut off by a 6th-grade interviewer",
         "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/04/30/that-time-obama-got-cut-off-by-a-6th-grade-interviewer/"
-      },
-      {
-        "Caption": "President Barack Obama, sitting next to 6th-grader Osman Yaya, a student at Wicomico County Public Schools' Bennett Middle School in Salisbury, Md., speaks at Anacostia Library. (AP Photo/Susan Walsh)",
-        "First paragraph": "President Obama traveled five miles from home on Thursday and did something he had never previously done in more than six years in the White House: make an announcement with the mayor of the District of Columbia.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/30/Local-Politics/Images/Obama_Reading-02e2c.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "President Obama makes rare appearance with D.C. mayor",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/30/president-obama-makes-rare-appearance-with-d-c-mayor/"
       },
       {
         "First paragraph": "Maui County police say Margaret C. Cruse was found floating in the waters off Ahihi Kinau Bay on Wednesday morning and was taken to the beach at a popular surfing spot. Attempts to revive the woman failed.",
@@ -3384,42 +2452,9 @@
         "url": "http://www.washingtonpost.com/national/authorities-identify-hawaii-shark-victim/2015/04/30/6729c172-ef79-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "An enhanced color view of Mercury taken by MESSENGER. (NASA)",
-        "First paragraph": "Goodnight, sweet probe.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2015/04/140_MDIS_global_enhancedcolor_map_rot_140.globe_.bright-1024x576.png&w=1484",
-          "text": ""
-        },
-        "Title": "The MESSENGER orbiter has crashed into Mercury",
-        "url": "http://www.washingtonpost.com/news/speaking-of-science/wp/2015/04/30/the-messenger-orbiter-has-crashed-into-mercury/"
-      },
-      {
-        "Caption": "Billy Donovan will take over the Oklahoma City Thunder as the team’s new head coach. (John Bazemore/AP Photo)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/sports/kevin-durant-says-he-would-love-to-stick-it-out-with-one-team-for-his-entire-career/2015/04/01/bc04cbf9-ab31-49f9-9bf7-7d67e4f9551d_story.html",
-          "text": "Every move Oklahoma City Thunder General Manager Sam Presti makes is evaluated by the masses through the same lens: How will it affect Kevin Durant’s decision when he hits free agency in the summer of 2016?"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/03/28/Sports/Images/NCAA_UCLA_Florida_Basketball-04340.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Risky Billy Donovan hire shows Thunder concerned about more than just Kevin Durant",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/30/risky-billy-donovan-hire-shows-thunder-concerned-about-more-than-just-kevin-durant/"
-      },
-      {
         "First paragraph": "It took Osman Yaya, a 12-year-old from Bennett Middle School in Salisbury, Maryland, and his skillful town hall moderating to tease out details about Obama’s early reading habits, his post-presidency plans and his view of digital media.",
         "Title": "Sixth-grader keeps president in line during session about books",
         "url": "http://www.washingtonpost.com/lifestyle/kidspost/sixth-grader-keeps-president-in-line-during-session-about-books/2015/04/30/6866c2cc-ef85-11e4-8666-a1d756d0218e_story.html"
-      },
-      {
-        "Caption": "Former Florida governor Jeb Bush speaks during an event at the Metropolitan University in San Juan, Puerto Rico, on Tuesday. (AP/Ricardo Arduengo)",
-        "First paragraph": "Presumed Republican presidential candidate Jeb Bush on Thursday faulted Major League Baseball for keeping fans out of Camden Yards during a Baltimore Orioles game this week, following riots in the city.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-28/AP/Puerto_Rico_GOP_2016_Bush-04ccc.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Jeb Bush faults Major League Baseball for keeping fans out of Orioles game",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/04/30/jeb-bush-faults-major-league-baseball-for-keeping-fans-out-of-orioles-game/"
       },
       {
         "First paragraph": {
@@ -3438,45 +2473,6 @@
         "First paragraph": "In tone and substance, Bush stands out among the many Republicans lining up for the GOP’s next presidential primary, where conservatives who oppose an immigration overhaul often hold outsized influence. As he moves toward a presidential campaign, the brother and son of former presidents has not backed away from his defense of immigrants in the country illegally and a policy that would allow them to attain legal status under certain conditions.",
         "Title": "Jeb Bush: Give 11 million immigrants chance to stay",
         "url": "http://www.washingtonpost.com/politics/jeb-bush-give-11-million-immigrants-chance-to-stay/2015/04/29/64e8b6b4-eea9-11e4-8050-839e9234b303_story.html"
-      },
-      {
-        "Caption": "The NFL draft is underway. (Jerry Lai/USA TODAY Sports)",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/30/Sports/Images/2015-04-30T210523Z_2124561507_NOCID_RTRMADP_3_NFL-2015-NFL-DRAFT-5534.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "NFL Draft 2015: Round 1 analysis – Jameis Winston, Marcus Mariota lead intrigue-free first day; Fantasy impact of top prospects",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/29/2015-nfl-draft-mock-draft-rumors-likely-trades-and-more/"
-      },
-      {
-        "Caption": "Pope Francis receives a drone as a gift on Thursday. (Osservatore Romano via EPA)",
-        "First paragraph": "A group of students from a Jesuit school in Rome presented Pope Francis with a drone of his very own Thursday, continuing what has become a delightful tradition of giving the pope cool gifts.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-30/Bloomberg/04726951.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Pope Francis has a drone of his very own",
-        "url": "http://www.washingtonpost.com/news/acts-of-faith/wp/2015/04/30/pope-francis-has-a-drone-of-his-very-own/"
-      },
-      {
-        "Caption": "(AP Photo/Charles Rex Arbogast)",
-        "First paragraph": "DEVANTE PARKER\nWide receiver, Louisville\nNFL combine measurements: 6-3, 209 pounds 4.45 in the 40",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/sports/wp-content/uploads/sites/13/2015/04/parker.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "2015 NFL Draft: Fantasy football impact of DeVante Parker to the Dolphins",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/30/2015-nfl-draft-fantasy-football-impact-of-devante-parker-to-the-dolphins/?tid%3DhpModule_a4df998e-86a7-11e2-9d71-f0feafdd1394"
-      },
-      {
-        "Caption": "(AP Photo/David J. Phillip)",
-        "First paragraph": "NELSON AGHOLOR\nWide receiver, Southern Cal\nNFL combine measurements: 6-0, 198 pounds, 4.42 in the 40",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/sports/wp-content/uploads/sites/13/2015/04/AP92335917218.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "2015 NFL Draft: Fantasy football impact of Nelson Agholor to the Eagles",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/04/30/2015-nfl-draft-fantasy-football-impact-of-nelson-agholor-to-the-eagles/"
       },
       {
         "First paragraph": "Tampa Bay believes it found its franchise quarterback at the top of the proceedings Thursday night, selecting Jameis Winston. The Florida State quarterback made plenty of headlines winning the Heisman Trophy in 2013 while leading the Seminoles to the national title, and again with his strong play last season.",
@@ -3507,29 +2503,9 @@
         "url": "http://www.washingtonpost.com/sports/redskins/nfl-commissioner-struggles-with-mariotas-name/2015/05/01/92eccd20-efb7-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "A 17th century engraving of a “plague doctor” dressed in the heavy gown and beaked mask believed to protect people from the disease. Four people fell ill in a Colorado outbreak of the plague last year. (U.S. National Library of Medicine)",
-        "First paragraph": "The U.S.’s largest pneumonic plague outbreak in nearly a century has been identified, and it all started with a sick dog.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/05/a013217-673x1024.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "A Colorado pit bull infected humans with the plague",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/01/a-colorado-pit-bull-infected-humans-with-the-plague/"
-      },
-      {
         "First paragraph": "The decision to accept the University of Chicago's bid to host the library would end months of speculation over where Obama would seek to establish his post-presidential legacy. Columbia University, his alma mater, and the University of Hawaii sought to win the library for New York and Honolulu, respectively. The University of Illinois at Chicago had also vied to host it.",
         "Title": "Obama chooses Chicago for his presidential library",
         "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/01/obama-chooses-chicago-for-his-presidential-library/"
-      },
-      {
-        "Caption": "President Obama arrives to deliver remarks on clean energy after a tour of a solar power array at Hill Air Force Base in Utah on April 3.  (Jonathan Ernst/Reuters)",
-        "First paragraph": "This story has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-03/Reuters/2015-04-03T172758Z_01_WAS921_RTRIDSP_3_USA-OBAMA.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Why Tesla’s announcement is such a big deal: The coming revolution in energy storage",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/04/30/why-teslas-announcement-could-be-such-a-big-deal/"
       },
       {
         "First paragraph": "Nepal is renewing its appeal to international donors to send tents and tarpaulins for temporary shelter along with grain, salt and sugar. The government also asked donors to send money to help with relief efforts if they cannot send things that are immediately necessary after last weekend’s devastating earthquake.",
@@ -3552,99 +2528,13 @@
         "url": "http://www.washingtonpost.com/world/europe/may-day-rallies-planned-across-europe-turkey-square-blocked/2015/05/01/9bf99a86-efe6-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "(Marvel/Express Illustration)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/goingoutguide/movies/avengers-age-of-ultron-gets-the-marvel-band-back-together/2015/04/29/ee6bb2e0-ee6f-11e4-8abc-d6aa3bad79dd_story.html",
-          "text": "The Reelist is a column featuring Kristen Page-Kirby’s musings on movies. To read Washington Post film critic Ann Hornaday’s review of “The Avengers: Age of Ultron,″ click here."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/express/wp-content/uploads/2015/04/ironvscaptain-1024x512.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Avengers: Age of Ultron’ shows two very different types of leadership",
-        "url": "http://www.washingtonpost.com/express/wp/2015/05/01/avengers-age-of-ultron-shows-two-very-different-types-of-leadership/"
-      },
-      {
         "First paragraph": "Baltimore State’s Attorney Marilyn J. Mosby publicly delivered her stunning, detailed narrative of extensive police misconduct in the latest of several cases nationwide that have fueled anger over heavy-handed law enforcement tactics in low-income communities.",
         "Title": "Six officers charged in death of Freddie Gray",
         "url": "http://www.washingtonpost.com/local/overnight-calm-in-baltimore-as-tensions-remain-and-protests-expected/2015/05/01/00e07e7a-efe6-11e4-8666-a1d756d0218e_story.html"
       },
       {
-        "Caption": "Though he may not have fit a top need, the Jets got great value landing DE Leonard Williams at No. 6. (Jonathan Daniel/Getty Images)",
-        "First paragraph": "Philip Rivers stayed put in San Diego. Adrian Peterson stayed put in Minnesota. There were only two trades. No one moved up to get Marcus Mariota.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-30/Getty/471724004.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "2015 NFL draft grades: Patriots, Seahawks, Jets ace Round 1",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/05/01/2015-nfl-draft-grades-patriots-seahawks-jets-ace-round-1/"
-      },
-      {
-        "Caption": "A police officer in Colorado poses with a body camera. (Rick Wilking/Reuters)",
-        "First paragraph": "The Department of Justice plans to launch a pilot program aimed at expanding the use of body cameras worn by police officers across the country.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/30/National-Enterprise/Images/2015-04-21T210655Z_01_CSP02_RTRIDSP_3_USA-POLICE.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Justice Dept. will spend $20 million on police body cameras nationwide",
-        "url": "http://www.washingtonpost.com/news/post-nation/wp/2015/05/01/justice-dept-to-help-police-agencies-across-the-country-get-body-cameras/"
-      },
-      {
-        "Caption": "Parked cars are seen near a part of collapsed structure at the Watergate complex in Washington, Friday, May 1, 2015. District of Columbia rescuers were responding to a structural collapse in the garage at the Watergate complex where one person may be trapped. A spokesman said three stories of the garage apparently collapsed. The area was under construction at the time. (Minh Tran via AP)",
-        "First paragraph": "Updated 4:36 p.m.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/WashingtonPost/Content/Blogs/local/Images/Watergate_Building_Collapse_-01b9b-008.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Watergate garage collapses in Northwest D.C.; one person injured",
-        "url": "http://www.washingtonpost.com/news/local/wp/2015/05/01/garage-collapses-in-northwest-d-c/"
-      },
-      {
-        "Caption": "c Magnetic: Captain America gets a major suit improvement in “Age of Ultron.” (courtesy of Disney/Marvel.)",
-        "First paragraph": "WITHIN THE CONTEXT of Marvel Studios’ larger cinematic gallery, “Avengers: Age of Ultron” looks like the master canvas.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/30/Production/Daily/Style/Images/Box_Office-0b3de.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Avengers: Age of Ultron': A fanboy’s 11-point breakdown of the masterful sequel",
-        "url": "http://www.washingtonpost.com/news/comic-riffs/wp/2015/05/01/avengers-age-of-ultron-a-fanboys-11-point-breakdown-of-the-masterful-sequel/"
-      },
-      {
         "Title": "Obama: ‘Absolutely vital’ that truth about what happened to Freddie Gray comes out",
         "url": "http://www.washingtonpost.com/politics/obama-absolutely-vital-that-truth-about-what-happened-to-freddie-gray-comes-out/2015/05/01/f3f43912-f01d-11e4-8050-839e9234b303_story.html"
-      },
-      {
-        "Caption": "San Antonio Spurs guard Manu Ginobili (AP Photo/Chris Carlson)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/sports/wizards/clippers-beat-spurs-102-96-to-force-game-7/2015/05/01/05aff0da-efbd-11e4-8050-839e9234b303_story.html",
-          "text": "With their 102-96 win over the San Antonio Spurs on Thursday night, the Los Angeles Clippers forced a Game 7 in their first-round NBA playoff series. As is tradition, Spurs Coach Gregg Popovich brought his brevity to the podium to assess Thursday’s loss."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-04-23/AP/Spurs_Clippers_Basketball-025cf.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Spurs’ bench is key to beating Clippers in Game 7",
-        "url": "http://www.washingtonpost.com/news/fancy-stats/wp/2015/05/01/spurs-bench-is-key-to-beating-clippers-in-game-7/"
-      },
-      {
-        "Caption": "The Tesla Energy Powerwall Home Battery is unveiled by Tesla Motors CEO Elon Musk during an event in Hawthorne, California April 30, 2015. REUTERS/Patrick T. Fallon",
-        "First paragraph": "This story has been updated.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-05-01/Reuters/2015-05-01T061714Z_01_PAF19_RTRIDSP_3_TESLA-MOTORS-BATTERIES.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "What backing up your home with Tesla’s battery might be like",
-        "url": "http://www.washingtonpost.com/news/energy-environment/wp/2015/05/01/what-backing-up-your-home-with-teslas-battery-might-be-like/"
-      },
-      {
-        "Caption": "Sen. Bernie Sanders (I-Vt.) on Capitol Hill Thursday announcing his presidential campaign. (REUTERS/Jonathan Ernst)",
-        "First paragraph": "Advisers to Bernie Sanders have argued that his grassroots network of small-dollar donors could raise him the roughly $50 million the independent senator from Vermont will need to run a credible, competitive campaign in the Democratic presidential primaries.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/30/Production/Daily/A-Section/Images/2015-04-30T170532Z_01_WAS115_RTRIDSP_3_USA-ELECTION-SANDERS.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Bernie Sanders raises $1.5 million in 24 hours, says his campaign",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/01/bernie-sanders-raises-1-5-million-in-24-hours-says-his-campaign/"
       },
       {
         "First paragraph": "Defense Secretary Ashton B. Carter, presenting his department’s assessment of sexual assault for fiscal 2014, said the military had made strides in discouraging abuse across the armed forces.",
@@ -3684,16 +2574,6 @@
         "url": "http://www.washingtonpost.com/world/africa/nigerian-military-234-more-girls-women-rescued-from-boko-harams-sambisa-forest-stronghold/2015/05/01/20b83dcc-f073-11e4-8050-839e9234b303_story.html"
       },
       {
-        "Caption": "Smith College in Northampton, Mass., circa 1900. (Library of Congress Prints and Photographs Division)",
-        "First paragraph": "In the decade before her death in 1870, Sophia Smith had a problem. She was the wealthy heir of a Massachusetts farmer, but had no children of her own — what should be done with her fortune? An avid reader with a profound hearing problem, Smith thought about endowing a school for the deaf — but was beaten to the punch when another opened in New England first.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/05/4a31661u.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Smith College to admit transgender women in historic policy change",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/04/smith-college-to-admit-transgender-women-in-historic-policy-change/"
-      },
-      {
         "First paragraph": "Thirty years after the first large groups of Ethiopians arrived, few in the community are celebrating. Israel’s black Jewish minority is plagued by poverty, crime and unemployment, and their brewing frustrations over racism and lack of opportunity have boiled over into an unprecedented outburst of violent anti-police protests.",
         "Title": "Protests highlight troubles of Ethiopian Jews in Israel",
         "url": "http://www.washingtonpost.com/world/middle_east/israeli-ethiopian-protest-against-racism-turns-violent/2015/05/03/6c891202-f204-11e4-bca5-21b51bbdf93e_story.html"
@@ -3702,29 +2582,6 @@
         "First paragraph": "The government says the death toll from the April 25 earthquake in Nepal has climbed to 7,365, including six foreigners and 45 Nepalese found over the weekend on a popular trekking route.",
         "Title": "The Latest on Nepal: EU approves millions in funding support",
         "url": "http://www.washingtonpost.com/national/religion/the-latest-on-nepal-nepal-urging-foreign-rescuers-to-leave/2015/05/04/e50a0eae-f220-11e4-bca5-21b51bbdf93e_story.html"
-      },
-      {
-        "Caption": "President Obama will be headed to Lehman College in New York to launch the My Brother's Keeper Alliance, a new nonprofit that could keep him busy when he leaves the White House. (Susan Walsh/Associated Press)",
-        "First paragraph": "He still has almost two years left in office, but the outlines of President Obama's post-White House life might be starting to take shape.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-05-01/AP/Obama_Library_-006cc.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Does Obama’s New York trip offer a glimpse into his post-White House life?",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/04/does-obamas-new-york-trip-offer-a-glimpse-into-his-post-white-house-life/"
-      },
-      {
-        "Caption": "Political blogger Pamela Geller, American Freedom Defense Initiative’s Houston-based founder, speaks at the Muhammad Art Exhibit and Contest, which is sponsored by the American Freedom Defense Initiative, in Garland, Tex., May 3. Two gunmen opened fire on Sunday at the art exhibit, which was organized by an anti-Islamic group and featured caricatures of the prophet Muhammad, and were themselves shot dead at the scene by police officers, city officials and police said. (Mike Stone/Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/morning-mix/wp/2015/04/22/killing-jews-is-worship-posters-will-soon-appear-on-nyc-subways-and-buses/",
-          "text": "For those unfamiliar with Pamela Geller, she was in the news a few weeks ago for sponsoring an ad campaign across major U.S. cities with anti-Muslim posters saying, among other things, “Killing Jews is Worship that draws us close to Allah.”"
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/05/2015-05-04T043409Z_01_DAL48_RTRIDSP_3_USA-SHOOTING-TEXAS.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Pamela Geller, the incendiary organizer of Texas ‘prophet Muhammad cartoon contest’",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/04/why-a-woman-named-pamela-geller-organized-a-prophet-muhammad-cartoon-contest/"
       },
       {
         "First paragraph": "Cisco said its board has selected longtime company executive Chuck Robbins to succeed Chambers in July, bypassing some of Chambers’ better-known lieutenants.",
@@ -3786,16 +2643,6 @@
         "url": "http://www.washingtonpost.com/politics/can-hillary-clinton-win-over-latino-voters/2015/05/04/45466bc8-f276-11e4-84a6-6d7c67c50db0_story.html"
       },
       {
-        "Caption": "Carly Fiorina speaks at the Republican Leadership Summit on April 18 in Nashua, N.H. (Jim Cole/AP)",
-        "First paragraph": "1) She started as Cara Carleton Sneed.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/04/20/Production/Daily/Style/Images/GOP_2016_New_Hampshire-01441.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Nine things to know about Carly Fiorina",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/04/nine-things-to-know-about-carly-fiorina/"
-      },
-      {
         "First paragraph": {
           "href": "http://www.washingtonpost.com/local/why-couldnt-130-million-transform-one-of-baltimores-poorest-places/2015/05/02/0467ab06-f034-11e4-a55f-38924fca94f9_story.html",
           "text": "The midafternoon report by correspondent Mike Tobin, which also found its way onto Foxnews.com, was potentially dangerous, given the elevated tensions in Baltimore’s Sandtown section, where protests and looting erupted in the wake of the death of Freddie Gray while in police custody."
@@ -3829,19 +2676,6 @@
         "url": "http://www.washingtonpost.com/world/national-security/suspect-in-texas-attack-previously-face-trial-on-terrorism-charge/2015/05/04/438df596-f279-11e4-bcc4-e8141e5eb0c9_story.html"
       },
       {
-        "Caption": "David Goldberg, CEO of online market researcher SurveyMonkey, in front of the company logo at headquarters in Palo Alto, Calif. Goldberg died unexpectedly Friday in Mexico. (Karsten Lemm/AP)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/02/dave-goldberg-husband-of-facebook-exec-sheyrl-sandberg-dies-overnight-family-says/",
-          "text": "It is highly unusual for an accomplished executive to be remembered first as a spouse. But that was the case for Dave Goldberg, the chief executive of SurveyMonkey, who died unexpectedly Friday in Mexico at the age of 47, evidently sustaining severe head injuries after falling off a treadmill while on vacation."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/05/04/Interactivity/Images/AP818271308558.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Dave Goldberg died from head injuries sustained when he fell off a treadmill",
-        "url": "http://www.washingtonpost.com/blogs/style-blog/wp/2015/05/04/dave-goldberg-died-after-collapsing-in-the-gym/"
-      },
-      {
         "First paragraph": "The organization will focus on improving early childhood education, keeping black and Latino boys out of the criminal justice system, and on preparing young men to be more successful when entering the workforce, he said.",
         "Title": "Obama launches My Brother’s Keeper Alliance to help young men of color",
         "url": "http://www.washingtonpost.com/politics/obama-launches-my-brothers-keeper-alliance-to-help-young-men-of-color/2015/05/04/405fd47c-f286-11e4-bcc4-e8141e5eb0c9_story.html"
@@ -3870,29 +2704,6 @@
         "First paragraph": "A day after his arrest on corruption charges, Dean Skelos said he will fight the allegations while leading the Senate as it heads into the final weeks of the legislative session.",
         "Title": "Top NY lawmaker clings to power after corruption charges",
         "url": "http://www.washingtonpost.com/business/ny-senate-boss-charged-in-corruption-case-claims-innocence/2015/05/05/ef966074-f2df-11e4-bca5-21b51bbdf93e_story.html"
-      },
-      {
-        "Caption": "(iStock)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/02/dave-goldberg-husband-of-facebook-exec-sheyrl-sandberg-dies-overnight-family-says/",
-          "text": "Details on Dave Goldberg’s death are still murky. The entrepreneur and husband of Facebook’s chief operating officer, Sheryl Sandberg, was found bleeding out in a Mexican hotel gym on Friday. He died shortly afterward at a nearby hospital, but the strange circumstances are only slowly emerging."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/05/CROP-iStock_000035286392_Large.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Dave Goldberg’s death points to rise and risks of treadmills in era of smartphones",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/05/dave-goldbergs-death-points-to-rise-and-risks-of-treadmills-in-era-of-smart-phones/"
-      },
-      {
-        "Caption": "Actress Daniele Watts (left) and Brian Lucas in Los Angeles. (KABC-TV/AP)",
-        "First paragraph": "“Django Unchained” actress Daniele Watts has agreed as part of a plea deal to apologize to Los Angeles police officers she accused of racism last year.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2014-10-21/AP/Actress_Charged-066d2.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "‘Django Unchained’ actress Daniele Watts ordered to apologize to LAPD cops she accused of racism",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/05/django-unchained-actress-daniele-watts-ordered-to-apologize-to-lapd-cops-she-accused-of-racism/"
       },
       {
         "First paragraph": "Kerry, the first U.S. secretary of state to visit Somalia, spent a little more than three hours on the ground and never left the airport. He held meetings with the country’s president and prime minister, regional officials and civilian activists.",
@@ -4020,19 +2831,6 @@
         "url": "http://www.washingtonpost.com/world/africa/ap-interview-ugandas-president-says-hes-the-one-bullied/2015/05/06/07beda5c-f3ab-11e4-bca5-21b51bbdf93e_story.html"
       },
       {
-        "Caption": "Sheryl Sandberg, chief operating officer of Facebook, arrives with her husband, David Goldberg, chief executive of SurveyMonkey, for the first day of a media conference in Sun Valley, Idaho, on July 9, 2014. (Rick Wilking/Reuters)",
-        "First paragraph": {
-          "href": "http://www.amazon.com/gp/product/0385349947?ie=UTF8&camp=1789&creativeASIN=0385349947&linkCode=xm2&tag=thewaspos09-20",
-          "text": "Two years ago, a best-selling memoir helped make Sheryl Sandberg one of the most famous women in the world. “Lean In” established the Facebook chief operating officer as a powerful female voice preaching hard work and equal pay. She penned opinion pieces and appeared in public service campaigns."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-05-02/Reuters/2015-05-02T204335Z_01_TOR601_RTRIDSP_3_SURVEYMONKEY-CEO.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Sheryl Sandberg: ‘Unexpected hell’ of husband’s death is ‘darkest and saddest’ moment of my life",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/06/sheryl-sandberg-unexpected-hell-of-husbands-death-is-darkest-and-saddest-moment-of-my-life/"
-      },
-      {
         "First paragraph": "Staten Island District Attorney Daniel Donovan — who empaneled the grand jury that declined to indict a white police officer who placed Eric Garner, an unarmed black man, in a fatal chokehold — on Tuesday captured a vacant congressional seat that spans Staten Island and a small part of Brooklyn.",
         "Title": "Prosecutor in Eric Garner chokehold case elected to Congress",
         "url": "http://www.washingtonpost.com/politics/da-wins-nyc-special-election-to-fill-congressional-seat/2015/05/05/9715b944-f38f-11e4-bca5-21b51bbdf93e_story.html"
@@ -4155,52 +2953,9 @@
         "url": "http://www.washingtonpost.com/world/national-security/us-begins-training-of-syrian-rebel-force/2015/05/07/5c5ac026-f4f0-11e4-bcc4-e8141e5eb0c9_story.html"
       },
       {
-        "Caption": "Roger Goodell and the Patriots appear to be at odds over the DeflateGate investigation. (John Samora/AP Photo)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/sports/wp/2015/05/07/patriots-punishment-from-nfl-may-hinge-on-repeat-offender-status/",
-          "text": "The NFL is satisfied that it followed its “proper protocol” by not acting prior to the AFC title game on information that the New England Patriots might use improperly deflated footballs, according to a person familiar with league procedures."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-05-07/AP/Deflated_Footballs-037e7.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "NFL believes proper procedures followed when acting on Colts’ DeflateGate tip",
-        "url": "http://www.washingtonpost.com/news/sports/wp/2015/05/07/nfl-believes-proper-procedures-followed-when-acting-on-colts-deflategate-tip/"
-      },
-      {
-        "Caption": "N.J. Gov. Chris Christie and Dallas Cowboys owner Jerry Jones talk prior to the 2015 NFC Divisional Playoff game between the Dallas Cowboys and the Green Bay Packers at Lambeau Field in January in Green Bay, Wisconsin. ( Mike McGinnis/Getty Images)",
-        "First paragraph": "Chris Christie thinks we're all talking about the New England Patriots cheating a little too much. But he also has some thoughts on it.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2015/01/12/Production/Daily/Style/Images/461342250.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Chris Christie: Leave Tom Brady alone!",
-        "url": "http://www.washingtonpost.com/blogs/the-fix/wp/2015/05/07/chris-christie-leave-tom-brady-alone/"
-      },
-      {
-        "Caption": "(AP Photo/Carolyn Kaster)",
-        "First paragraph": "The chair of the Iowa Republican Party on Thursday announced major changes to the Iowa Straw Poll, part of an aggressive play to salvage the event's role in GOP presidential politics amid persistent questions about its purpose and usefulness.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/blogs/post-politics/files/2015/05/cattle-call.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Behind the new Iowa GOP push to save the straw poll",
-        "url": "http://www.washingtonpost.com/blogs/post-politics/wp/2015/05/07/behind-the-new-iowa-gop-push-to-save-the-straw-poll/"
-      },
-      {
         "First paragraph": "The information about Elton Simpson was developed about three hours before the contest, which the FBI had already identified as a potential target for violence because it involved cartoons depicting the Prophet Muhammad. Simpson and his roommate, both from Phoenix, opened fire outside the Garland, Texas, event center but were shot dead before they were able to kill anyone.",
         "Title": "FBI sent out bulletin about gunman before Texas attack",
         "url": "http://www.washingtonpost.com/politics/courts_law/fbi-head-says-gunman-in-texas-displayed-interest-in-event/2015/05/07/1ddfa918-f4ed-11e4-bca5-21b51bbdf93e_story.html"
-      },
-      {
-        "Caption": "Madagascar’s President Hery Rajaonarimampianina, second from right, stands in front of a 110-pound silver bar which was allegedly recovered by Marine archaeologist Barry Clifford in the wreck of William Kidd’s ship May 7 on the Island of Sainte Marie. (Manjakahery Tsiresena/AFP/Getty Images)",
-        "First paragraph": "Famed explorer Barry Clifford believes — once again — that he has finally found the elusive Adventure Galley, the crown jewel of famed pirate Captain William Kidd’s exploits in the Indian Ocean in the 1600s.",
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-05-07/Getty/Par8167150.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Famed explorer says he found the elusive ‘treasure’ ship of Captain Kidd. Not so fast.",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/07/famed-explorer-says-he-found-the-elusive-treasure-ship-of-captain-kidd-not-so-fast/"
       },
       {
         "First paragraph": "Comey said the FBI sent an intelligence bulletin to local authorities through its Dallas field office that included a picture of Elton Simpson, 30, and other details such as his associates and possible license plate numbers.",
@@ -4221,19 +2976,6 @@
         "First paragraph": "U.S. President Barack Obama has congratulated U.K. Prime Minister David Cameron on his victory in the general elections.",
         "Title": "The Latest: Obama congratulates Cameron",
         "url": "http://www.washingtonpost.com/business/the-latest-scottish-nationalists-heading-for-landslide/2015/05/07/d842fb9c-f516-11e4-bca5-21b51bbdf93e_story.html"
-      },
-      {
-        "Caption": "At Salem State University in Salem, Mass., Thursday night, Tom Brady responded to questions about DeflateGate like it wasn’t even a thing. (Pool photo by Charles Krupa via Reuters)",
-        "First paragraph": {
-          "href": "http://www.washingtonpost.com/news/sports/wp/2015/05/06/deflategate-wells-report-concludes-more-probable-than-not-patriots-violated-league-rules-tom-brady-aware-of-activities/",
-          "text": "The day after the DeflateGate report broke — a report that implicated Tom Brady in a cheating scandal that put quite the asterisk next to the New England Patriots Super Bowl win — the star quarterback was scheduled to speak at Salem State University in Salem, Mass. The event sold out within 20 minutes; kids wearing “Brady” jerseys would attend. Canceling the event would look bad, but an ill-conceived, off-message response to a question about DeflateGate would be worse. A scowl, a smirk or even a pregnant pause could spell disaster. Even a “no comment” wasn’t safe."
-        },
-        "Image": {
-          "src": "https://img.washingtonpost.com/wp-apps/imrs.php?src=https://img.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2015/05/A-bradly-RTX1C160.jpg&w=1484",
-          "text": ""
-        },
-        "Title": "Tom Brady, the NFL’s unflappable Zen wizard",
-        "url": "http://www.washingtonpost.com/news/morning-mix/wp/2015/05/08/tom-brady-the-nfls-unflappable-zen-warrior/"
       },
       {
         "First paragraph": "Results of a Food and Drug Administration investigation released this week showed the company had found 17 positive samples of listeria on surfaces and floors in its Oklahoma plant dating back to 2013. The FDA said Friday that it “was not aware of these findings” before doing its own inspection this year in response to the outbreak.",
