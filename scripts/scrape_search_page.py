@@ -16,8 +16,7 @@ def get_article_urls(data):
 ## open url
 ## save contents to file
 
-def scrape(url, number, fd):
-    count = 0
+def scrape(url, number, fd, count=0):
     while count < number:
         urls = get_article_urls(open_json_url(url.format(count)))
         count += len(urls)
