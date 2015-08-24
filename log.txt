@@ -1,0 +1,49 @@
+24/08/2015
+Copied top 20 news websites from alexa.com
+Searched for "*" on:
+- http://query.nytimes.com/search/sitesearch/#/*/                                        - 15 520 441   results
+- https://www.washingtonpost.com/newssearch/search.html?query=*                          - 12 447       results (all since 2005)
+- http://timesofindia.indiatimes.com/topic/*                                             - 0            results
+- http://www.usatoday.com/search/*/                                                      - 437 412      results
+- http://economictimes.indiatimes.com/topic/*                                            - 0            results
+- http://www.latimes.com/search/dispatcher.front?Query=*&target=all                      - 0            results
+- http://www.chron.com/search/?action=search&firstRequest=1&searchindex=gsa&query=*      - 0            results
+- http://indianexpress.com/?s=*                                                          - 0            results
+- http://nypost.com/?s=*                                                                 - 0            results
+- http://www.thehindu.com/search/simple.do                                               - 3 525 637    results
+- http://www.sfgate.com/search/?action=search&firstRequest=1&searchindex=gsa&query=*     - 0            results
+- http://www.hindustantimes.com/Search/search.aspx?q=*&op=All&pt=all&auth=all            - 0            results
+- http://www.smh.com.au/execute_search.html?text=*&ss=smh.com.au%2Fexecute_search.html   - 0            results
+- not English
+- not English
+- http://www.hollywoodreporter.com/search/*                                              - 633          results
+- http://www.chicagotribune.com/search/dispatcher.front?Query=*&target=all&spell=on      - 0            results
+- not English
+- http://www.examiner.com/search/google?query=*&cx=partner-pub-7479725245717969%3A9ze01gmnpyp&cof=FORID%3A9&ie=ISO-8859-1&sa=Search - not only articles
+- not English
+
+Searched for "the" on:
+- http://query.nytimes.com/search/sitesearch/#/the/                                      - 0            results
+- https://www.washingtonpost.com/newssearch/search.html?query=the                        - 1 098 011    results (all since 2005)
+- http://timesofindia.indiatimes.com/topic/the                                           - 0            results
+- http://www.usatoday.com/search/the/                                                    - 387 050      results
+- http://economictimes.indiatimes.com/topic/the                                          - 0            results
+- http://www.latimes.com/search/dispatcher.front?Query=the&target=all                    - 29 880       results
+- http://www.chron.com/search/?action=search&firstRequest=1&searchindex=gsa&query=the    - 1 550 000    results
+- http://indianexpress.com/?s=the                                                        - 0            results
+- http://nypost.com/?s=the                                                               - 0            results
+- http://www.thehindu.com/search/simple.do                                               - 0            results
+- http://www.sfgate.com/search/?action=search&firstRequest=1&searchindex=gsa&query=the   - 1 300 000    results
+- http://www.hindustantimes.com/Search/search.aspx?q=the&op=All&pt=all&auth=all          - 0            results
+- http://www.smh.com.au/execute_search.html?text=the&ss=smh.com.au%2Fexecute_search.html - 1 150 585    results
+- not English
+- not English
+- http://www.hollywoodreporter.com/search/the                                            - 0            results
+- http://www.chicagotribune.com/search/dispatcher.front?Query=the&target=all&spell=on    - 24 760       results
+- not English
+- http://www.examiner.com/search/google?query=the&cx=partner-pub-7479725245717969%3A9ze01gmnpyp&cof=FORID%3A9&ie=ISO-8859-1&sa=Search - not only articles
+- not English
+
+Summary:
+"*":   5 websites with results, average of 3 899 314, total of 19 496 570
+"the": 7 websites with results, average of   791 469, total of  5 540 286
