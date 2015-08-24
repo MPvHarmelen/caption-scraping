@@ -3,7 +3,8 @@
 import json
 import urllib.request
 
-URL = 'https://md1-a.akamaihd.net/sitesearch-api/search.jsonp?query=e&sort=displaydatetime+desc&startat={}'
+URL = 'https://md1-a.akamaihd.net/sitesearch-api/search.jsonp?query=e&sort=displaydatetime+desc&startat={}' # starts at 1? or 0?
+# URL = 'http://www.usatoday.com/search/e/{}/?ajax=true' # starts at 1
 OUTPUT_FILENAME = 'output.csv'
 
 def open_json_url(url):
