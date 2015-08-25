@@ -10,12 +10,11 @@ OUTPUT_FILENAME = 'output.csv'
 def open_json_url(url):
     return json.loads(urllib.request.urlopen(url).read().decode())
 
+def get_number(url):
+    return int(open_json_url(URL.format(0))['results']['total'])
+
 def get_article_urls(data):
     return [doc['contenturl'] for doc in data['results']['documents']]
-
-# loop
-## open url
-## save contents to file
 
 def scrape(url, number, fd, count=0):
     while count < number:
@@ -35,7 +34,7 @@ if __name__ == '__main__':
                         help='File to output counts to')
     output_filename = parser.parse_args().output_filename or OUTPUT_FILENAME
 
-    number = int(open_json_url(URL.format(0))['results']['total'])
+    number = get_number(URL)
     with open(output_filename, 'w') as fd:
         count = scrape(URL, number, fd)
     print("Found {} urls".format(count))
