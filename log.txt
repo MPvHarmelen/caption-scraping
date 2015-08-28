@@ -47,3 +47,28 @@ Searched for "the" on:
 Summary:
 "*":   5 websites with results, average of 3 899 314, total of 19 496 570
 "the": 7 websites with results, average of   791 469, total of  5 540 286
+
+
+
+25/08/2015
+Tried to discover if http://query.nytimes.com/search/sitesearch/#/*/ uses ajax
+to load search results to make scraping easier. To no avail.
+Search results are contained like so:
+<div id="searchResults">
+    <ol class="searchResultsList flush">
+        <li class="story"></li> // if class="... paidpost ..." > advertisement
+        ...
+        <li></li>
+    </ol>
+</div>
+
+About the dates Adriatik used for WP, Laura says:
+"(I think) on the 13th of August, so 13/08/2014 until 13/08/2015."
+
+Started writing html results scraper.
+Found nytimes ajax url
+Finished writing json scraping script.
+
+28/08/2015
+The script seemed broken, but after careful inspection it turned out to be my
+internet connection.
