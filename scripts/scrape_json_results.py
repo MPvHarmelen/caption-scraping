@@ -1,28 +1,36 @@
 #!env/bin/python
 
 import logging
+from datetime import datetime, timedelta
 import json
-import urllib.request
+import urllib.request, urllib.error
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 
 WEBSITES = {
     # 'name': ('url', get_max_articles(json), get_article_list(json), page_start, calculate_count(count))
     # 'akamaihd': ('https://md1-a.akamaihd.net/sitesearch-api/search.jsonp?query=e&sort=displaydatetime+desc&startat={}', 0),
-    'usatoday': (
-        'http://www.usatoday.com/search/e/{}/?ajax=true',
-        lambda json: json['results']['total'],
-        lambda json: [doc['contenturl'] for doc in json['results']['documents']],
-        lambda article_count: article_count,
-        1
-    ),
-    'nytimes': (
-        'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date=20150813&begin_date=20140813&sort=desc&page={}&facet=true',
-        lambda json: json['response']['meta']['hits'],
-        lambda json: [doc['web_url'] for doc in json['response']['docs']],
-        lambda article_count: int(article_count / 10), # 10 articles/page
-        0
-    )
+    'usatoday': {
+        'url':          'http://www.usatoday.com/search/e/{}/?ajax=true',
+        'get_max':      lambda json: json['results']['total'],
+        'get_urls':     lambda json: [doc['contenturl'] for doc in json['results']['documents']],
+        'calc_count':   lambda article_count: article_count,
+        'page_start':   1,
+        'date_loop':    False
+    },
+    'nytimes': {
+        # 'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date=20150813&begin_date=20140813&sort=desc&page={}&facet=true',
+        'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date={date}&begin_date={date}&sort=desc&page={}&facet=true',
+        'get_max':      lambda json: json['response']['meta']['hits'],
+        'get_urls':     lambda json: [doc['web_url'] for doc in json['response']['docs']],
+        'calc_count':   lambda article_count: int(article_count / 10), # 10 articles/page
+        'page_start':   0,
+        'date_loop':    True,
+        'date_format':  '%Y%m%d',
+        'start_date':   datetime(year=2015, month=8, day=13),
+        'end_date':     datetime(year=2014, month=8, day=13),
+        'timedelta':    timedelta(days=-1),
+    }
 }
 OUTPUT_FILENAME = 'output.csv'
 
@@ -30,14 +38,52 @@ def open_json_url(url, count):
     logging.debug("url: {}".format(url.format(count)))
     return json.loads(urllib.request.urlopen(url.format(count)).read().decode())
 
-def scrape(website_info, fd, count=0):
-    url, get_max, get_urls, calc_count, page_start = website_info
+def scrape(website_info, fd, initial_count=0):
+    if website_info.pop('date_loop', False):
+        url = website_info.pop('url')
+        date_format = website_info.pop('date_format')
+        start_date = date = website_info.pop('start_date')
+        end_date = website_info.pop('end_date')
+        date_delta = website_info.pop('timedelta')
+
+        count = initial_count
+        while start_date <= date <= end_date or end_date <= date <= start_date:
+            info = website_info.copy()
+            info['url'] = url.format('{}', date=date.strftime(date_format))
+            count += scrape_page(info, fd, initial_count)
+            # Just to make sure we don't lose anything
+            fd.flush()
+            date += date_delta
+        return count
+
+    else:
+        return scrape_page(website_info, fd, count)
+
+def scrape_page(website_info, fd, count=0):
+    url = website_info.pop('url')
+    get_max = website_info.pop('get_max')
+    get_urls = website_info.pop('get_urls')
+    calc_count = website_info.pop('calc_count')
+    page_start = website_info.pop('page_start')
+
 
     max_articles = int(get_max(open_json_url(url, page_start)))
     while count < max_articles:
         logging.debug("Count: {}".format(count))
-        urls = get_urls(open_json_url(url, calc_count(count)))
-        logging.debug('{}: {}'.format(url[:30], len(urls)))
+        try:
+            urls = get_urls(open_json_url(url, calc_count(count)))
+        except urllib.error.HTTPError as e:
+            # nytimes gives 400 at too high a page count
+            if e.code != 400:
+                raise e
+            message = 'At {count} of {max}: {error}'.format(
+                count=count,
+                max=max_articles,
+                error=e
+            )
+            logging.warn(message)
+            fd.write(message)
+            break
         count += len(urls)
         # Add a newline after each url
         urls = map(
@@ -59,12 +105,12 @@ if __name__ == '__main__':
 
     if args.website_id[0] in WEBSITES:
         website_info = WEBSITES[args.website_id[0]]
+        logging.debug('website_info: {}'.format(website_info))
     else:
         print("Unknown website id, choose one of: {}".format(WEBSITES.keys()))
         exit(1)
 
-    logging.info("Started scraping")
     with open(output_filename, 'w') as fd:
-        logging.debug("Started scraping")
+        logging.info("Started scraping")
         count = scrape(website_info, fd)
     logging.info("Found {} urls".format(count))
