@@ -7,6 +7,7 @@ import urllib.request, urllib.error
 
 logging.basicConfig(level=logging.DEBUG)
 
+DATE_FORMAT = '%Y-%m-%d  '
 WEBSITES = {
     # 'name': ('url', get_max_articles(json), get_article_list(json), page_start, calculate_count(count))
     # 'akamaihd': ('https://md1-a.akamaihd.net/sitesearch-api/search.jsonp?query=e&sort=displaydatetime+desc&startat={}', 0),
@@ -50,7 +51,8 @@ def scrape(website_info, fd, initial_count=0):
         while start_date <= date <= end_date or end_date <= date <= start_date:
             info = website_info.copy()
             info['url'] = url.format('{}', date=date.strftime(date_format))
-            count += scrape_page(info, fd, initial_count)
+            count += scrape_page(info, fd, initial_count, date)
+            logging.debug("count: {}".format(count))
             # Just to make sure we don't lose anything
             fd.flush()
             date += date_delta
@@ -59,39 +61,62 @@ def scrape(website_info, fd, initial_count=0):
     else:
         return scrape_page(website_info, fd, count)
 
-def scrape_page(website_info, fd, count=0):
+def scrape_page(website_info, fd, count=0, date=None):
     url = website_info.pop('url')
     get_max = website_info.pop('get_max')
     get_urls = website_info.pop('get_urls')
     calc_count = website_info.pop('calc_count')
     page_start = website_info.pop('page_start')
-
+    get_date = website_info.pop('get_date') if date is None else lambda _, date=date: date
 
     max_articles = int(get_max(open_json_url(url, page_start)))
+    lost_articles = 0
+    one_page_count = 0  # Very ugly coding. This variable is used in the loop to
+                        # to access the number of urls on the previous page.
     while count < max_articles:
-        logging.debug("Count: {}".format(count))
+        logging.debug(datetime.now().strftime("time: %H:%M:%S"))
+        logging.debug("count: {}".format(count))
         try:
             urls = get_urls(open_json_url(url, calc_count(count)))
         except urllib.error.HTTPError as e:
             # nytimes gives 400 at too high a page count
-            if e.code != 400:
+            if e.code == 400:
+                action = 'Skipping to next date (discarding the remaining urls)'
+                e.msg = 'Max page count exceeded'
+                lost = max_articles - count
+            elif e.code == 500:
+                action = 'Skipping to next page (discarding 10 urls)'
+                e.msg = 'Internal server error'
+                lost = one_page_count
+            else:
                 raise e
-            message = 'At {count} of {max}: {error}'.format(
+
+            message = '{action} ({count} of {max} urls successful, lost {lost}): {error}'.format(
+                action=action,
                 count=count,
                 max=max_articles,
+                lost=lost,
                 error=e
             )
             logging.warn(message)
-            fd.write(message)
-            break
-        count += len(urls)
+            fd.write(message + '\n')
+
+            if e.code == 400:
+                break
+            elif e.code == 500:
+                lost_articles += lost
+                count += lost
+                continue
+
+        one_page_count = len(urls)
+        count += one_page_count
         # Add a newline after each url
         urls = map(
-            lambda url: url + '\n',
+            lambda url: get_date(url).strftime(DATE_FORMAT) + url + '\n',
             urls
         )
         fd.write(''.join(urls))
-    return count
+    return count - lost_articles
 
 if __name__ == '__main__':
     # Input
