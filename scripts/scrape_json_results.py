@@ -1,6 +1,7 @@
 #!env/bin/python
 
 import logging
+import time
 from datetime import datetime, timedelta
 import json
 import urllib.request, urllib.error
@@ -8,6 +9,7 @@ import urllib.request, urllib.error
 logging.basicConfig(level=logging.DEBUG)
 
 DATE_FORMAT = '%Y-%m-%d  '
+RETRY_DELAY = 1 # in seconds
 WEBSITES = {
     # 'name': ('url', get_max_articles(json), get_article_list(json), page_start, calculate_count(count))
     # 'akamaihd': ('https://md1-a.akamaihd.net/sitesearch-api/search.jsonp?query=e&sort=displaydatetime+desc&startat={}', 0),
@@ -37,7 +39,15 @@ OUTPUT_FILENAME = 'output.csv'
 
 def open_json_url(url, count):
     logging.debug("url: {}".format(url.format(count)))
-    return json.loads(urllib.request.urlopen(url.format(count)).read().decode())
+    success = False
+    while not success:
+        try:
+            url_fd = urllib.request.urlopen(url.format(count))
+            success = True
+        except urllib.error.URLError as e:
+            logging.warn('Trying again: {}'.format(e))
+            time.sleep(RETRY_DELAY)
+    return json.loads(url_fd.read().decode())
 
 def scrape(website_info, fd, initial_count=0):
     if website_info.pop('date_loop', False):
@@ -76,6 +86,7 @@ def scrape_page(website_info, fd, count=0, date=None):
     while count < max_articles:
         logging.debug(datetime.now().strftime("time: %H:%M:%S"))
         logging.debug("count: {}".format(count))
+
         try:
             urls = get_urls(open_json_url(url, calc_count(count)))
         except urllib.error.HTTPError as e:
