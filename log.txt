@@ -77,3 +77,7 @@ internet connection.
 400 error at 1010 urls was because of max page of 100 at nyt. Worked around this
 by writing separate queries for all dates. After this 500 errors occurred, changed
 script to skip over them too.
+
+06/09/2015
+Scrape result: 92165 lines in output file, 27 errors, lost 1022, 92138 urls succesfully.
+Wrote catch for network timeout.
