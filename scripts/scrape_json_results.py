@@ -58,15 +58,18 @@ def scrape(website_info, fd, initial_count=0):
         date_delta = website_info.pop('timedelta')
 
         count = initial_count
+        lost_articles = 0
         while start_date <= date <= end_date or end_date <= date <= start_date:
             info = website_info.copy()
             info['url'] = url.format('{}', date=date.strftime(date_format))
-            count += scrape_page(info, fd, initial_count, date)
+            page_count, page_lost = scrape_page(info, fd, initial_count, date)
+            count += page_count
+            lost_articles += page_lost
             logging.debug("count: {}".format(count))
             # Just to make sure we don't lose anything
             fd.flush()
             date += date_delta
-        return count
+        return count, lost_articles
 
     else:
         return scrape_page(website_info, fd, count)
@@ -79,16 +82,17 @@ def scrape_page(website_info, fd, count=0, date=None):
     page_start = website_info.pop('page_start')
     get_date = website_info.pop('get_date') if date is None else lambda _, date=date: date
 
-    max_articles = int(get_max(open_json_url(url, page_start)))
     lost_articles = 0
-    one_page_count = 0  # Very ugly coding. This variable is used in the loop to
-                        # to access the number of urls on the previous page.
-    while count < max_articles:
+    # Very ugly coding. This variable is used in the loop to to access the
+    # number of urls on the previous page.
+    one_page_count = 0
+    max_articles = None
+    while max_articles is None or count < max_articles:
         logging.debug(datetime.now().strftime("time: %H:%M:%S"))
         logging.debug("count: {}".format(count))
 
         try:
-            urls = get_urls(open_json_url(url, calc_count(count)))
+            json = open_json_url(url, calc_count(count))
         except urllib.error.HTTPError as e:
             # nytimes gives 400 at too high a page count
             if e.code == 400:
@@ -119,6 +123,10 @@ def scrape_page(website_info, fd, count=0, date=None):
                 count += lost
                 continue
 
+        if max_articles is None:
+            max_articles = int(get_max(json))
+            logging.debug("Max articles: {}".format(max_articles))
+        urls = get_urls(json)
         one_page_count = len(urls)
         count += one_page_count
         # Add a newline after each url
@@ -127,7 +135,7 @@ def scrape_page(website_info, fd, count=0, date=None):
             urls
         )
         fd.write(''.join(urls))
-    return count - lost_articles
+    return count - lost_articles, lost_articles
 
 if __name__ == '__main__':
     # Input
@@ -148,5 +156,5 @@ if __name__ == '__main__':
 
     with open(output_filename, 'w') as fd:
         logging.info("Started scraping")
-        count = scrape(website_info, fd)
-    logging.info("Found {} urls".format(count))
+        count, lost_articles = scrape(website_info, fd)
+    logging.info("Found {} urls, missed {}".format(count, lost_articles))
