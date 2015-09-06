@@ -23,7 +23,7 @@ WEBSITES = {
     },
     'nytimes': {
         # 'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date=20150813&begin_date=20140813&sort=desc&page={}&facet=true',
-        'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date={date}&begin_date={date}&sort=desc&page={}&facet=true',
+        'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date={date}&begin_date={date}&sort=desc&page={}',
         'get_max':      lambda json: json['response']['meta']['hits'],
         'get_urls':     lambda json: [doc['web_url'] for doc in json['response']['docs']],
         'calc_count':   lambda article_count: int(article_count / 10), # 10 articles/page
@@ -31,6 +31,7 @@ WEBSITES = {
         'date_loop':    True,
         'date_format':  '%Y%m%d',
         'start_date':   datetime(year=2015, month=8, day=13),
+        # 'start_date':   datetime(year=2015, month=7, day=15), # more than 1000 results
         'end_date':     datetime(year=2014, month=8, day=13),
         'timedelta':    timedelta(days=-1),
     }
@@ -45,6 +46,11 @@ def open_json_url(url, count):
             url_fd = urllib.request.urlopen(url.format(count))
             success = True
         except urllib.error.URLError as e:
+            try:
+                if not e.args[0].errno == -3:
+                    raise e
+            except:
+                raise e
             logging.warn('Trying again: {}'.format(e))
             time.sleep(RETRY_DELAY)
     return json.loads(url_fd.read().decode())
