@@ -23,7 +23,7 @@ WEBSITES = {
     },
     'nytimes': {
         # 'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date=20150813&begin_date=20140813&sort=desc&page={}&facet=true',
-        'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?end_date={date}&begin_date={date}&sort=desc&page={}',
+        'url':          'http://query.nytimes.com/svc/add/v1/sitesearch.json?fq=document_type%3A%22article%22&end_date={date}&begin_date={date}&sort=desc&page={}',
         'get_max':      lambda json: json['response']['meta']['hits'],
         'get_urls':     lambda json: [doc['web_url'] for doc in json['response']['docs']],
         'calc_count':   lambda article_count: int(article_count / 10), # 10 articles/page
